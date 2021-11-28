@@ -1,0 +1,707 @@
+[2021-11-27 18:18:10,967] {processor.py:163} INFO - Started process (PID=33590) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 18:18:10,968] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 18:18:10,968] {logging_mixin.py:109} INFO - [2021-11-27 18:18:10,968] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 18:18:10,998] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 18:18:11,008] {logging_mixin.py:109} INFO - [2021-11-27 18:18:11,008] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 18:18:11,013] {logging_mixin.py:109} INFO - [2021-11-27 18:18:11,013] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 18:18:11,019] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.052 seconds
+[2021-11-27 18:19:01,355] {processor.py:163} INFO - Started process (PID=33693) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 18:19:01,356] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 18:19:01,356] {logging_mixin.py:109} INFO - [2021-11-27 18:19:01,356] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 18:19:01,389] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 18:19:01,400] {logging_mixin.py:109} INFO - [2021-11-27 18:19:01,400] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 18:19:01,405] {logging_mixin.py:109} INFO - [2021-11-27 18:19:01,405] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 18:19:01,410] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.056 seconds
+[2021-11-27 18:19:46,324] {processor.py:163} INFO - Started process (PID=33783) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 18:19:46,325] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 18:19:46,325] {logging_mixin.py:109} INFO - [2021-11-27 18:19:46,325] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 18:19:46,361] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 18:19:46,373] {logging_mixin.py:109} INFO - [2021-11-27 18:19:46,373] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 18:19:46,378] {logging_mixin.py:109} INFO - [2021-11-27 18:19:46,378] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 18:19:46,386] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.062 seconds
+[2021-11-27 18:20:35,265] {processor.py:163} INFO - Started process (PID=33886) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 18:20:35,266] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 18:20:35,266] {logging_mixin.py:109} INFO - [2021-11-27 18:20:35,266] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 18:20:35,303] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 18:20:35,315] {logging_mixin.py:109} INFO - [2021-11-27 18:20:35,315] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 18:20:35,320] {logging_mixin.py:109} INFO - [2021-11-27 18:20:35,320] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 18:20:35,326] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.061 seconds
+[2021-11-27 18:21:18,984] {processor.py:163} INFO - Started process (PID=33983) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 18:21:18,985] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 18:21:18,985] {logging_mixin.py:109} INFO - [2021-11-27 18:21:18,985] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 18:21:19,015] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 18:21:19,026] {logging_mixin.py:109} INFO - [2021-11-27 18:21:19,026] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 18:21:19,031] {logging_mixin.py:109} INFO - [2021-11-27 18:21:19,031] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 18:21:19,036] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.052 seconds
+[2021-11-27 18:22:14,221] {processor.py:163} INFO - Started process (PID=34096) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 18:22:14,222] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 18:22:14,222] {logging_mixin.py:109} INFO - [2021-11-27 18:22:14,222] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 18:22:14,255] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 18:22:14,266] {logging_mixin.py:109} INFO - [2021-11-27 18:22:14,266] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 18:22:14,271] {logging_mixin.py:109} INFO - [2021-11-27 18:22:14,271] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 18:22:14,282] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.061 seconds
+[2021-11-27 18:22:58,784] {processor.py:163} INFO - Started process (PID=34182) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 18:22:58,785] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 18:22:58,786] {logging_mixin.py:109} INFO - [2021-11-27 18:22:58,786] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 18:22:58,818] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 18:22:58,829] {logging_mixin.py:109} INFO - [2021-11-27 18:22:58,829] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 18:22:58,834] {logging_mixin.py:109} INFO - [2021-11-27 18:22:58,834] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 18:22:58,839] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.055 seconds
+[2021-11-27 18:23:52,824] {processor.py:163} INFO - Started process (PID=34281) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 18:23:52,825] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 18:23:52,825] {logging_mixin.py:109} INFO - [2021-11-27 18:23:52,825] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 18:23:52,855] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 18:23:52,866] {logging_mixin.py:109} INFO - [2021-11-27 18:23:52,866] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 18:23:52,871] {logging_mixin.py:109} INFO - [2021-11-27 18:23:52,870] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 18:23:52,876] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.053 seconds
+[2021-11-27 18:24:49,875] {processor.py:163} INFO - Started process (PID=34392) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 18:24:49,875] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 18:24:49,875] {logging_mixin.py:109} INFO - [2021-11-27 18:24:49,875] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 18:24:49,908] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 18:24:49,919] {logging_mixin.py:109} INFO - [2021-11-27 18:24:49,919] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 18:24:49,924] {logging_mixin.py:109} INFO - [2021-11-27 18:24:49,924] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 18:24:49,931] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.056 seconds
+[2021-11-27 18:25:35,596] {processor.py:163} INFO - Started process (PID=34475) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 18:25:35,596] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 18:25:35,596] {logging_mixin.py:109} INFO - [2021-11-27 18:25:35,596] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 18:25:35,626] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 18:25:35,638] {logging_mixin.py:109} INFO - [2021-11-27 18:25:35,638] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 18:25:35,643] {logging_mixin.py:109} INFO - [2021-11-27 18:25:35,643] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 18:25:35,649] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.053 seconds
+[2021-11-27 19:10:54,563] {processor.py:163} INFO - Started process (PID=34815) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:10:54,563] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 19:10:54,563] {logging_mixin.py:109} INFO - [2021-11-27 19:10:54,563] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:10:54,593] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:10:54,608] {logging_mixin.py:109} INFO - [2021-11-27 19:10:54,607] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 19:10:54,616] {logging_mixin.py:109} INFO - [2021-11-27 19:10:54,616] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 19:10:54,622] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.059 seconds
+[2021-11-27 19:11:39,938] {processor.py:163} INFO - Started process (PID=34906) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:11:39,939] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 19:11:39,940] {logging_mixin.py:109} INFO - [2021-11-27 19:11:39,940] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:11:39,970] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:11:39,981] {logging_mixin.py:109} INFO - [2021-11-27 19:11:39,981] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 19:11:39,986] {logging_mixin.py:109} INFO - [2021-11-27 19:11:39,986] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 19:11:39,994] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.056 seconds
+[2021-11-27 19:12:35,989] {processor.py:163} INFO - Started process (PID=35027) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:12:35,989] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 19:12:35,990] {logging_mixin.py:109} INFO - [2021-11-27 19:12:35,990] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:12:36,018] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:12:36,029] {logging_mixin.py:109} INFO - [2021-11-27 19:12:36,029] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 19:12:36,034] {logging_mixin.py:109} INFO - [2021-11-27 19:12:36,034] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 19:12:36,040] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.052 seconds
+[2021-11-27 19:13:29,754] {processor.py:163} INFO - Started process (PID=35192) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:13:29,755] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 19:13:29,755] {logging_mixin.py:109} INFO - [2021-11-27 19:13:29,755] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:13:29,785] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:13:29,796] {logging_mixin.py:109} INFO - [2021-11-27 19:13:29,796] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 19:13:29,801] {logging_mixin.py:109} INFO - [2021-11-27 19:13:29,801] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 19:13:29,806] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.052 seconds
+[2021-11-27 19:14:18,280] {processor.py:163} INFO - Started process (PID=35287) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:14:18,281] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 19:14:18,281] {logging_mixin.py:109} INFO - [2021-11-27 19:14:18,281] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:14:18,311] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:14:18,322] {logging_mixin.py:109} INFO - [2021-11-27 19:14:18,322] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 19:14:18,329] {logging_mixin.py:109} INFO - [2021-11-27 19:14:18,329] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 19:14:18,335] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.055 seconds
+[2021-11-27 19:15:02,046] {processor.py:163} INFO - Started process (PID=35369) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:15:02,047] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 19:15:02,047] {logging_mixin.py:109} INFO - [2021-11-27 19:15:02,047] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:15:02,077] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:15:02,088] {logging_mixin.py:109} INFO - [2021-11-27 19:15:02,088] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 19:15:02,093] {logging_mixin.py:109} INFO - [2021-11-27 19:15:02,093] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 19:15:02,098] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.052 seconds
+[2021-11-27 19:16:01,376] {processor.py:163} INFO - Started process (PID=35490) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:16:01,377] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 19:16:01,377] {logging_mixin.py:109} INFO - [2021-11-27 19:16:01,377] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:16:01,408] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:16:01,418] {logging_mixin.py:109} INFO - [2021-11-27 19:16:01,418] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 19:16:01,423] {logging_mixin.py:109} INFO - [2021-11-27 19:16:01,423] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 19:16:01,429] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.053 seconds
+[2021-11-27 19:16:45,642] {processor.py:163} INFO - Started process (PID=35628) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:16:45,643] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 19:16:45,643] {logging_mixin.py:109} INFO - [2021-11-27 19:16:45,643] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:16:45,675] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:16:45,686] {logging_mixin.py:109} INFO - [2021-11-27 19:16:45,686] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 19:16:45,691] {logging_mixin.py:109} INFO - [2021-11-27 19:16:45,691] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 19:16:45,696] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.054 seconds
+[2021-11-27 19:17:33,696] {processor.py:163} INFO - Started process (PID=35720) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:17:33,697] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 19:17:33,697] {logging_mixin.py:109} INFO - [2021-11-27 19:17:33,697] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:17:33,728] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:17:33,739] {logging_mixin.py:109} INFO - [2021-11-27 19:17:33,739] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 19:17:33,747] {logging_mixin.py:109} INFO - [2021-11-27 19:17:33,747] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 19:17:33,752] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.056 seconds
+[2021-11-27 19:18:26,080] {processor.py:163} INFO - Started process (PID=35823) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:18:26,081] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 19:18:26,081] {logging_mixin.py:109} INFO - [2021-11-27 19:18:26,081] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:18:26,113] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:18:26,124] {logging_mixin.py:109} INFO - [2021-11-27 19:18:26,124] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 19:18:26,129] {logging_mixin.py:109} INFO - [2021-11-27 19:18:26,129] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 19:18:26,135] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.055 seconds
+[2021-11-27 19:19:19,971] {processor.py:163} INFO - Started process (PID=35922) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:19:19,972] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 19:19:19,972] {logging_mixin.py:109} INFO - [2021-11-27 19:19:19,972] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:19:20,004] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:19:20,015] {logging_mixin.py:109} INFO - [2021-11-27 19:19:20,015] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 19:19:20,020] {logging_mixin.py:109} INFO - [2021-11-27 19:19:20,019] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 19:19:20,024] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.054 seconds
+[2021-11-27 19:20:03,506] {processor.py:163} INFO - Started process (PID=36025) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:20:03,507] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 19:20:03,507] {logging_mixin.py:109} INFO - [2021-11-27 19:20:03,507] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:20:03,544] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:20:03,557] {logging_mixin.py:109} INFO - [2021-11-27 19:20:03,556] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 19:20:03,562] {logging_mixin.py:109} INFO - [2021-11-27 19:20:03,562] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 19:20:03,568] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.062 seconds
+[2021-11-27 19:20:55,231] {processor.py:163} INFO - Started process (PID=36133) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:20:55,232] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 19:20:55,232] {logging_mixin.py:109} INFO - [2021-11-27 19:20:55,232] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:20:55,262] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:20:55,273] {logging_mixin.py:109} INFO - [2021-11-27 19:20:55,273] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 19:20:55,278] {logging_mixin.py:109} INFO - [2021-11-27 19:20:55,278] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 19:20:55,284] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.053 seconds
+[2021-11-27 19:21:41,778] {processor.py:163} INFO - Started process (PID=36215) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:21:41,778] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 19:21:41,778] {logging_mixin.py:109} INFO - [2021-11-27 19:21:41,778] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:21:41,809] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:21:41,820] {logging_mixin.py:109} INFO - [2021-11-27 19:21:41,820] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 19:21:41,825] {logging_mixin.py:109} INFO - [2021-11-27 19:21:41,825] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 19:21:41,831] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.053 seconds
+[2021-11-27 19:22:26,212] {processor.py:163} INFO - Started process (PID=36311) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:22:26,213] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 19:22:26,213] {logging_mixin.py:109} INFO - [2021-11-27 19:22:26,213] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:22:26,245] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:22:26,256] {logging_mixin.py:109} INFO - [2021-11-27 19:22:26,256] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 19:22:26,261] {logging_mixin.py:109} INFO - [2021-11-27 19:22:26,261] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 19:22:26,271] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.059 seconds
+[2021-11-27 19:23:22,396] {processor.py:163} INFO - Started process (PID=36457) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:23:22,397] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 19:23:22,397] {logging_mixin.py:109} INFO - [2021-11-27 19:23:22,397] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:23:22,428] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:23:22,445] {logging_mixin.py:109} INFO - [2021-11-27 19:23:22,445] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 19:23:22,451] {logging_mixin.py:109} INFO - [2021-11-27 19:23:22,451] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 19:23:22,456] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.060 seconds
+[2021-11-27 19:24:17,931] {processor.py:163} INFO - Started process (PID=37776) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:24:17,932] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 19:24:17,932] {logging_mixin.py:109} INFO - [2021-11-27 19:24:17,932] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:24:17,963] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:24:17,975] {logging_mixin.py:109} INFO - [2021-11-27 19:24:17,975] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 19:24:17,981] {logging_mixin.py:109} INFO - [2021-11-27 19:24:17,981] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 19:24:17,987] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.056 seconds
+[2021-11-27 19:25:18,662] {processor.py:163} INFO - Started process (PID=39572) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:25:18,663] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 19:25:18,663] {logging_mixin.py:109} INFO - [2021-11-27 19:25:18,663] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:25:18,704] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:25:18,716] {logging_mixin.py:109} INFO - [2021-11-27 19:25:18,716] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 19:25:18,722] {logging_mixin.py:109} INFO - [2021-11-27 19:25:18,722] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 19:25:18,744] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.082 seconds
+[2021-11-27 19:26:13,266] {processor.py:163} INFO - Started process (PID=39854) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:26:13,266] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 19:26:13,267] {logging_mixin.py:109} INFO - [2021-11-27 19:26:13,267] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:26:13,297] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:26:13,308] {logging_mixin.py:109} INFO - [2021-11-27 19:26:13,308] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 19:26:13,314] {logging_mixin.py:109} INFO - [2021-11-27 19:26:13,314] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 19:26:13,322] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.056 seconds
+[2021-11-27 19:26:57,193] {processor.py:163} INFO - Started process (PID=39957) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:26:57,194] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 19:26:57,194] {logging_mixin.py:109} INFO - [2021-11-27 19:26:57,194] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:26:57,226] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:26:57,237] {logging_mixin.py:109} INFO - [2021-11-27 19:26:57,237] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 19:26:57,242] {logging_mixin.py:109} INFO - [2021-11-27 19:26:57,242] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 19:26:57,250] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.057 seconds
+[2021-11-27 19:27:52,184] {processor.py:163} INFO - Started process (PID=40110) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:27:52,185] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 19:27:52,185] {logging_mixin.py:109} INFO - [2021-11-27 19:27:52,185] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:27:52,213] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:27:52,223] {logging_mixin.py:109} INFO - [2021-11-27 19:27:52,223] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 19:27:52,228] {logging_mixin.py:109} INFO - [2021-11-27 19:27:52,228] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 19:27:52,233] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.049 seconds
+[2021-11-27 19:28:43,509] {processor.py:163} INFO - Started process (PID=40281) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:28:43,510] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 19:28:43,510] {logging_mixin.py:109} INFO - [2021-11-27 19:28:43,510] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:28:43,540] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:28:43,552] {logging_mixin.py:109} INFO - [2021-11-27 19:28:43,551] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 19:28:43,556] {logging_mixin.py:109} INFO - [2021-11-27 19:28:43,556] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 19:28:43,562] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.053 seconds
+[2021-11-27 19:29:41,256] {processor.py:163} INFO - Started process (PID=40413) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:29:41,257] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 19:29:41,257] {logging_mixin.py:109} INFO - [2021-11-27 19:29:41,257] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:29:41,297] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:29:41,308] {logging_mixin.py:109} INFO - [2021-11-27 19:29:41,308] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 19:29:41,312] {logging_mixin.py:109} INFO - [2021-11-27 19:29:41,312] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 19:29:41,317] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.062 seconds
+[2021-11-27 19:45:35,173] {processor.py:163} INFO - Started process (PID=40921) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:45:35,174] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 19:45:35,174] {logging_mixin.py:109} INFO - [2021-11-27 19:45:35,174] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:45:35,207] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:45:35,217] {logging_mixin.py:109} INFO - [2021-11-27 19:45:35,217] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 19:45:35,222] {logging_mixin.py:109} INFO - [2021-11-27 19:45:35,222] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 19:45:35,231] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.058 seconds
+[2021-11-27 19:46:20,388] {processor.py:163} INFO - Started process (PID=41084) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:46:20,389] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 19:46:20,389] {logging_mixin.py:109} INFO - [2021-11-27 19:46:20,389] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:46:20,443] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:46:20,460] {logging_mixin.py:109} INFO - [2021-11-27 19:46:20,460] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 19:46:20,466] {logging_mixin.py:109} INFO - [2021-11-27 19:46:20,466] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 19:46:20,471] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.083 seconds
+[2021-11-27 19:47:04,001] {processor.py:163} INFO - Started process (PID=41205) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:47:04,002] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 19:47:04,002] {logging_mixin.py:109} INFO - [2021-11-27 19:47:04,002] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:47:04,034] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:47:04,045] {logging_mixin.py:109} INFO - [2021-11-27 19:47:04,045] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 19:47:04,050] {logging_mixin.py:109} INFO - [2021-11-27 19:47:04,050] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 19:47:04,055] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.054 seconds
+[2021-11-27 19:47:56,672] {processor.py:163} INFO - Started process (PID=41406) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:47:56,672] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 19:47:56,673] {logging_mixin.py:109} INFO - [2021-11-27 19:47:56,673] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:47:56,704] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:47:56,715] {logging_mixin.py:109} INFO - [2021-11-27 19:47:56,715] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 19:47:56,720] {logging_mixin.py:109} INFO - [2021-11-27 19:47:56,720] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 19:47:56,729] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.057 seconds
+[2021-11-27 19:48:44,523] {processor.py:163} INFO - Started process (PID=41517) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:48:44,524] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 19:48:44,524] {logging_mixin.py:109} INFO - [2021-11-27 19:48:44,524] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:48:44,561] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:48:44,572] {logging_mixin.py:109} INFO - [2021-11-27 19:48:44,572] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 19:48:44,577] {logging_mixin.py:109} INFO - [2021-11-27 19:48:44,577] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 19:48:44,582] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.059 seconds
+[2021-11-27 19:49:38,701] {processor.py:163} INFO - Started process (PID=41942) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:49:38,701] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 19:49:38,702] {logging_mixin.py:109} INFO - [2021-11-27 19:49:38,702] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:49:38,732] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:49:38,743] {logging_mixin.py:109} INFO - [2021-11-27 19:49:38,743] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 19:49:38,748] {logging_mixin.py:109} INFO - [2021-11-27 19:49:38,748] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 19:49:38,756] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.055 seconds
+[2021-11-27 19:50:22,911] {processor.py:163} INFO - Started process (PID=42044) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:50:22,912] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 19:50:22,912] {logging_mixin.py:109} INFO - [2021-11-27 19:50:22,912] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:50:22,943] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:50:22,954] {logging_mixin.py:109} INFO - [2021-11-27 19:50:22,954] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 19:50:22,959] {logging_mixin.py:109} INFO - [2021-11-27 19:50:22,959] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 19:50:22,964] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.053 seconds
+[2021-11-27 19:51:06,955] {processor.py:163} INFO - Started process (PID=42135) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:51:06,955] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 19:51:06,955] {logging_mixin.py:109} INFO - [2021-11-27 19:51:06,955] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:51:06,993] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:51:07,004] {logging_mixin.py:109} INFO - [2021-11-27 19:51:07,004] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 19:51:07,009] {logging_mixin.py:109} INFO - [2021-11-27 19:51:07,009] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 19:51:07,015] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.060 seconds
+[2021-11-27 19:52:04,907] {processor.py:163} INFO - Started process (PID=42270) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:52:04,908] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 19:52:04,908] {logging_mixin.py:109} INFO - [2021-11-27 19:52:04,908] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:52:04,940] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:52:04,959] {logging_mixin.py:109} INFO - [2021-11-27 19:52:04,959] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 19:52:04,964] {logging_mixin.py:109} INFO - [2021-11-27 19:52:04,964] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 19:52:04,970] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.063 seconds
+[2021-11-27 19:52:50,937] {processor.py:163} INFO - Started process (PID=42358) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:52:50,938] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 19:52:50,938] {logging_mixin.py:109} INFO - [2021-11-27 19:52:50,938] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:52:50,969] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:52:50,981] {logging_mixin.py:109} INFO - [2021-11-27 19:52:50,981] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 19:52:50,986] {logging_mixin.py:109} INFO - [2021-11-27 19:52:50,986] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 19:52:50,992] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.055 seconds
+[2021-11-27 19:53:37,943] {processor.py:163} INFO - Started process (PID=42457) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:53:37,943] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 19:53:37,943] {logging_mixin.py:109} INFO - [2021-11-27 19:53:37,943] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:53:37,975] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:53:37,985] {logging_mixin.py:109} INFO - [2021-11-27 19:53:37,985] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 19:53:37,990] {logging_mixin.py:109} INFO - [2021-11-27 19:53:37,990] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 19:53:38,002] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.060 seconds
+[2021-11-27 19:54:29,995] {processor.py:163} INFO - Started process (PID=42557) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:54:29,995] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 19:54:29,995] {logging_mixin.py:109} INFO - [2021-11-27 19:54:29,995] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:54:30,026] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:54:30,037] {logging_mixin.py:109} INFO - [2021-11-27 19:54:30,037] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 19:54:30,042] {logging_mixin.py:109} INFO - [2021-11-27 19:54:30,041] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 19:54:30,047] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.052 seconds
+[2021-11-27 19:55:18,057] {processor.py:163} INFO - Started process (PID=42651) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:55:18,059] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 19:55:18,059] {logging_mixin.py:109} INFO - [2021-11-27 19:55:18,059] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:55:18,094] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:55:18,108] {logging_mixin.py:109} INFO - [2021-11-27 19:55:18,108] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 19:55:18,117] {logging_mixin.py:109} INFO - [2021-11-27 19:55:18,116] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 19:55:18,124] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.067 seconds
+[2021-11-27 19:56:08,557] {processor.py:163} INFO - Started process (PID=42757) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:56:08,557] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 19:56:08,557] {logging_mixin.py:109} INFO - [2021-11-27 19:56:08,557] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:56:08,590] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:56:08,602] {logging_mixin.py:109} INFO - [2021-11-27 19:56:08,602] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 19:56:08,608] {logging_mixin.py:109} INFO - [2021-11-27 19:56:08,608] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 19:56:08,619] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.062 seconds
+[2021-11-27 19:56:57,812] {processor.py:163} INFO - Started process (PID=42843) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:56:57,813] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 19:56:57,813] {logging_mixin.py:109} INFO - [2021-11-27 19:56:57,813] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:56:57,846] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:56:57,856] {logging_mixin.py:109} INFO - [2021-11-27 19:56:57,856] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 19:56:57,861] {logging_mixin.py:109} INFO - [2021-11-27 19:56:57,861] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 19:56:57,866] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.055 seconds
+[2021-11-27 19:57:44,303] {processor.py:163} INFO - Started process (PID=42936) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:57:44,304] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 19:57:44,304] {logging_mixin.py:109} INFO - [2021-11-27 19:57:44,304] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:57:44,336] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:57:44,347] {logging_mixin.py:109} INFO - [2021-11-27 19:57:44,347] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 19:57:44,352] {logging_mixin.py:109} INFO - [2021-11-27 19:57:44,352] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 19:57:44,357] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.054 seconds
+[2021-11-27 19:58:35,175] {processor.py:163} INFO - Started process (PID=43102) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:58:35,176] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 19:58:35,177] {logging_mixin.py:109} INFO - [2021-11-27 19:58:35,177] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:58:35,207] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:58:35,218] {logging_mixin.py:109} INFO - [2021-11-27 19:58:35,218] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 19:58:35,223] {logging_mixin.py:109} INFO - [2021-11-27 19:58:35,223] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 19:58:35,228] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.053 seconds
+[2021-11-27 19:59:21,599] {processor.py:163} INFO - Started process (PID=43194) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:59:21,600] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 19:59:21,600] {logging_mixin.py:109} INFO - [2021-11-27 19:59:21,600] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:59:21,630] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 19:59:21,643] {logging_mixin.py:109} INFO - [2021-11-27 19:59:21,643] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 19:59:21,649] {logging_mixin.py:109} INFO - [2021-11-27 19:59:21,649] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 19:59:21,655] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.056 seconds
+[2021-11-27 20:00:20,950] {processor.py:163} INFO - Started process (PID=43308) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:00:20,951] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 20:00:20,952] {logging_mixin.py:109} INFO - [2021-11-27 20:00:20,952] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:00:20,984] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:00:20,995] {logging_mixin.py:109} INFO - [2021-11-27 20:00:20,995] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 20:00:21,002] {logging_mixin.py:109} INFO - [2021-11-27 20:00:21,002] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 20:00:21,013] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.063 seconds
+[2021-11-27 20:01:09,163] {processor.py:163} INFO - Started process (PID=43392) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:01:09,164] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 20:01:09,164] {logging_mixin.py:109} INFO - [2021-11-27 20:01:09,164] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:01:09,195] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:01:09,206] {logging_mixin.py:109} INFO - [2021-11-27 20:01:09,206] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 20:01:09,211] {logging_mixin.py:109} INFO - [2021-11-27 20:01:09,211] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 20:01:09,222] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.059 seconds
+[2021-11-27 20:01:54,692] {processor.py:163} INFO - Started process (PID=43474) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:01:54,693] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 20:01:54,693] {logging_mixin.py:109} INFO - [2021-11-27 20:01:54,693] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:01:54,724] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:01:54,737] {logging_mixin.py:109} INFO - [2021-11-27 20:01:54,737] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 20:01:54,742] {logging_mixin.py:109} INFO - [2021-11-27 20:01:54,741] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 20:01:54,747] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.055 seconds
+[2021-11-27 20:02:44,299] {processor.py:163} INFO - Started process (PID=43570) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:02:44,300] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 20:02:44,300] {logging_mixin.py:109} INFO - [2021-11-27 20:02:44,300] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:02:44,332] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:02:44,344] {logging_mixin.py:109} INFO - [2021-11-27 20:02:44,344] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 20:02:44,349] {logging_mixin.py:109} INFO - [2021-11-27 20:02:44,349] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 20:02:44,356] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.057 seconds
+[2021-11-27 20:03:29,170] {processor.py:163} INFO - Started process (PID=43654) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:03:29,171] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 20:03:29,171] {logging_mixin.py:109} INFO - [2021-11-27 20:03:29,171] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:03:29,201] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:03:29,212] {logging_mixin.py:109} INFO - [2021-11-27 20:03:29,212] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 20:03:29,217] {logging_mixin.py:109} INFO - [2021-11-27 20:03:29,217] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 20:03:29,222] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.052 seconds
+[2021-11-27 20:04:23,178] {processor.py:163} INFO - Started process (PID=43753) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:04:23,179] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 20:04:23,179] {logging_mixin.py:109} INFO - [2021-11-27 20:04:23,179] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:04:23,212] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:04:23,223] {logging_mixin.py:109} INFO - [2021-11-27 20:04:23,223] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 20:04:23,228] {logging_mixin.py:109} INFO - [2021-11-27 20:04:23,228] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 20:04:23,233] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.055 seconds
+[2021-11-27 20:05:06,680] {processor.py:163} INFO - Started process (PID=43831) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:05:06,681] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 20:05:06,681] {logging_mixin.py:109} INFO - [2021-11-27 20:05:06,681] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:05:06,713] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:05:06,725] {logging_mixin.py:109} INFO - [2021-11-27 20:05:06,725] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 20:05:06,730] {logging_mixin.py:109} INFO - [2021-11-27 20:05:06,730] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 20:05:06,736] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.056 seconds
+[2021-11-27 20:06:03,671] {processor.py:163} INFO - Started process (PID=43961) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:06:03,672] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 20:06:03,673] {logging_mixin.py:109} INFO - [2021-11-27 20:06:03,673] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:06:03,705] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:06:03,715] {logging_mixin.py:109} INFO - [2021-11-27 20:06:03,715] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 20:06:03,720] {logging_mixin.py:109} INFO - [2021-11-27 20:06:03,720] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 20:06:03,729] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.058 seconds
+[2021-11-27 20:07:00,309] {processor.py:163} INFO - Started process (PID=44088) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:07:00,310] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 20:07:00,310] {logging_mixin.py:109} INFO - [2021-11-27 20:07:00,310] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:07:00,340] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:07:00,350] {logging_mixin.py:109} INFO - [2021-11-27 20:07:00,350] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 20:07:00,355] {logging_mixin.py:109} INFO - [2021-11-27 20:07:00,355] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 20:07:00,360] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.052 seconds
+[2021-11-27 20:07:59,614] {processor.py:163} INFO - Started process (PID=44278) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:07:59,615] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 20:07:59,615] {logging_mixin.py:109} INFO - [2021-11-27 20:07:59,615] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:07:59,647] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:07:59,659] {logging_mixin.py:109} INFO - [2021-11-27 20:07:59,659] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 20:07:59,665] {logging_mixin.py:109} INFO - [2021-11-27 20:07:59,665] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 20:07:59,670] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.057 seconds
+[2021-11-27 20:08:51,401] {processor.py:163} INFO - Started process (PID=44597) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:08:51,402] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 20:08:51,403] {logging_mixin.py:109} INFO - [2021-11-27 20:08:51,403] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:08:51,435] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:08:51,446] {logging_mixin.py:109} INFO - [2021-11-27 20:08:51,446] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 20:08:51,451] {logging_mixin.py:109} INFO - [2021-11-27 20:08:51,451] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 20:08:51,460] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.058 seconds
+[2021-11-27 20:09:40,267] {processor.py:163} INFO - Started process (PID=44700) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:09:40,268] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 20:09:40,268] {logging_mixin.py:109} INFO - [2021-11-27 20:09:40,268] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:09:40,299] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:09:40,311] {logging_mixin.py:109} INFO - [2021-11-27 20:09:40,311] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 20:09:40,315] {logging_mixin.py:109} INFO - [2021-11-27 20:09:40,315] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 20:09:40,320] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.053 seconds
+[2021-11-27 20:10:25,313] {processor.py:163} INFO - Started process (PID=44792) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:10:25,314] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 20:10:25,314] {logging_mixin.py:109} INFO - [2021-11-27 20:10:25,314] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:10:25,345] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:10:25,355] {logging_mixin.py:109} INFO - [2021-11-27 20:10:25,355] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 20:10:25,360] {logging_mixin.py:109} INFO - [2021-11-27 20:10:25,360] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 20:10:25,376] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.063 seconds
+[2021-11-27 20:11:08,716] {processor.py:163} INFO - Started process (PID=44878) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:11:08,717] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 20:11:08,717] {logging_mixin.py:109} INFO - [2021-11-27 20:11:08,717] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:11:08,750] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:11:08,761] {logging_mixin.py:109} INFO - [2021-11-27 20:11:08,761] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 20:11:08,766] {logging_mixin.py:109} INFO - [2021-11-27 20:11:08,766] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 20:11:08,771] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.055 seconds
+[2021-11-27 20:12:04,218] {processor.py:163} INFO - Started process (PID=44974) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:12:04,219] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 20:12:04,219] {logging_mixin.py:109} INFO - [2021-11-27 20:12:04,219] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:12:04,250] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:12:04,261] {logging_mixin.py:109} INFO - [2021-11-27 20:12:04,261] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 20:12:04,266] {logging_mixin.py:109} INFO - [2021-11-27 20:12:04,266] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 20:12:04,271] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.053 seconds
+[2021-11-27 20:30:04,017] {processor.py:163} INFO - Started process (PID=45242) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:30:04,017] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 20:30:04,017] {logging_mixin.py:109} INFO - [2021-11-27 20:30:04,017] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:30:04,046] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:30:04,057] {logging_mixin.py:109} INFO - [2021-11-27 20:30:04,057] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 20:30:04,062] {logging_mixin.py:109} INFO - [2021-11-27 20:30:04,062] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 20:30:04,068] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.052 seconds
+[2021-11-27 20:31:00,218] {processor.py:163} INFO - Started process (PID=45404) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:31:00,218] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 20:31:00,219] {logging_mixin.py:109} INFO - [2021-11-27 20:31:00,219] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:31:00,256] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:31:00,267] {logging_mixin.py:109} INFO - [2021-11-27 20:31:00,267] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 20:31:00,272] {logging_mixin.py:109} INFO - [2021-11-27 20:31:00,272] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 20:31:00,282] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.064 seconds
+[2021-11-27 20:31:50,080] {processor.py:163} INFO - Started process (PID=45506) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:31:50,081] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 20:31:50,081] {logging_mixin.py:109} INFO - [2021-11-27 20:31:50,081] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:31:50,112] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:31:50,124] {logging_mixin.py:109} INFO - [2021-11-27 20:31:50,124] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 20:31:50,129] {logging_mixin.py:109} INFO - [2021-11-27 20:31:50,129] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 20:31:50,139] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.060 seconds
+[2021-11-27 20:32:47,811] {processor.py:163} INFO - Started process (PID=45719) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:32:47,812] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 20:32:47,812] {logging_mixin.py:109} INFO - [2021-11-27 20:32:47,812] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:32:47,844] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:32:47,855] {logging_mixin.py:109} INFO - [2021-11-27 20:32:47,855] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 20:32:47,860] {logging_mixin.py:109} INFO - [2021-11-27 20:32:47,860] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 20:32:47,872] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.061 seconds
+[2021-11-27 20:33:33,113] {processor.py:163} INFO - Started process (PID=45815) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:33:33,114] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 20:33:33,114] {logging_mixin.py:109} INFO - [2021-11-27 20:33:33,114] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:33:33,145] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:33:33,157] {logging_mixin.py:109} INFO - [2021-11-27 20:33:33,157] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 20:33:33,162] {logging_mixin.py:109} INFO - [2021-11-27 20:33:33,162] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 20:33:33,170] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.057 seconds
+[2021-11-27 20:34:17,743] {processor.py:163} INFO - Started process (PID=45911) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:34:17,744] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 20:34:17,744] {logging_mixin.py:109} INFO - [2021-11-27 20:34:17,744] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:34:17,776] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:34:17,788] {logging_mixin.py:109} INFO - [2021-11-27 20:34:17,788] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 20:34:17,794] {logging_mixin.py:109} INFO - [2021-11-27 20:34:17,794] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 20:34:17,829] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.086 seconds
+[2021-11-27 20:35:02,541] {processor.py:163} INFO - Started process (PID=45999) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:35:02,541] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 20:35:02,541] {logging_mixin.py:109} INFO - [2021-11-27 20:35:02,541] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:35:02,574] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:35:02,586] {logging_mixin.py:109} INFO - [2021-11-27 20:35:02,586] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 20:35:02,591] {logging_mixin.py:109} INFO - [2021-11-27 20:35:02,591] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 20:35:02,599] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.059 seconds
+[2021-11-27 20:35:48,280] {processor.py:163} INFO - Started process (PID=46085) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:35:48,281] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 20:35:48,281] {logging_mixin.py:109} INFO - [2021-11-27 20:35:48,281] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:35:48,312] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:35:48,322] {logging_mixin.py:109} INFO - [2021-11-27 20:35:48,322] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 20:35:48,327] {logging_mixin.py:109} INFO - [2021-11-27 20:35:48,327] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 20:35:48,399] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.119 seconds
+[2021-11-27 20:36:35,891] {processor.py:163} INFO - Started process (PID=46203) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:36:35,892] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 20:36:35,893] {logging_mixin.py:109} INFO - [2021-11-27 20:36:35,893] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:36:35,924] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:36:35,935] {logging_mixin.py:109} INFO - [2021-11-27 20:36:35,935] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 20:36:35,939] {logging_mixin.py:109} INFO - [2021-11-27 20:36:35,939] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 20:36:35,944] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.053 seconds
+[2021-11-27 20:37:25,488] {processor.py:163} INFO - Started process (PID=46309) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:37:25,488] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 20:37:25,488] {logging_mixin.py:109} INFO - [2021-11-27 20:37:25,488] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:37:25,520] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:37:25,531] {logging_mixin.py:109} INFO - [2021-11-27 20:37:25,531] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 20:37:25,536] {logging_mixin.py:109} INFO - [2021-11-27 20:37:25,536] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 20:37:25,541] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.054 seconds
+[2021-11-27 20:38:13,681] {processor.py:163} INFO - Started process (PID=46428) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:38:13,682] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 20:38:13,682] {logging_mixin.py:109} INFO - [2021-11-27 20:38:13,682] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:38:13,713] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:38:13,724] {logging_mixin.py:109} INFO - [2021-11-27 20:38:13,724] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 20:38:13,729] {logging_mixin.py:109} INFO - [2021-11-27 20:38:13,729] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 20:38:13,735] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.053 seconds
+[2021-11-27 20:38:59,088] {processor.py:163} INFO - Started process (PID=46524) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:38:59,089] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 20:38:59,090] {logging_mixin.py:109} INFO - [2021-11-27 20:38:59,090] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:38:59,121] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:38:59,132] {logging_mixin.py:109} INFO - [2021-11-27 20:38:59,132] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 20:38:59,137] {logging_mixin.py:109} INFO - [2021-11-27 20:38:59,137] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 20:38:59,144] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.056 seconds
+[2021-11-27 20:39:44,810] {processor.py:163} INFO - Started process (PID=46607) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:39:44,811] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 20:39:44,811] {logging_mixin.py:109} INFO - [2021-11-27 20:39:44,811] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:39:44,842] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:39:44,854] {logging_mixin.py:109} INFO - [2021-11-27 20:39:44,854] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 20:39:44,859] {logging_mixin.py:109} INFO - [2021-11-27 20:39:44,859] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 20:39:44,874] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.064 seconds
+[2021-11-27 20:40:34,821] {processor.py:163} INFO - Started process (PID=46727) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:40:34,822] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 20:40:34,822] {logging_mixin.py:109} INFO - [2021-11-27 20:40:34,822] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:40:34,854] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:40:34,866] {logging_mixin.py:109} INFO - [2021-11-27 20:40:34,866] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 20:40:34,871] {logging_mixin.py:109} INFO - [2021-11-27 20:40:34,871] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 20:40:34,876] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.056 seconds
+[2021-11-27 20:41:19,562] {processor.py:163} INFO - Started process (PID=46846) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:41:19,563] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 20:41:19,564] {logging_mixin.py:109} INFO - [2021-11-27 20:41:19,563] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:41:19,594] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:41:19,605] {logging_mixin.py:109} INFO - [2021-11-27 20:41:19,605] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 20:41:19,610] {logging_mixin.py:109} INFO - [2021-11-27 20:41:19,610] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 20:41:19,618] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.056 seconds
+[2021-11-27 20:42:13,471] {processor.py:163} INFO - Started process (PID=46960) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:42:13,472] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 20:42:13,472] {logging_mixin.py:109} INFO - [2021-11-27 20:42:13,472] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:42:13,503] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:42:13,514] {logging_mixin.py:109} INFO - [2021-11-27 20:42:13,514] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 20:42:13,519] {logging_mixin.py:109} INFO - [2021-11-27 20:42:13,519] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 20:42:13,527] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.056 seconds
+[2021-11-27 20:42:57,513] {processor.py:163} INFO - Started process (PID=47070) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:42:57,514] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 20:42:57,514] {logging_mixin.py:109} INFO - [2021-11-27 20:42:57,514] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:42:57,541] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:42:57,551] {logging_mixin.py:109} INFO - [2021-11-27 20:42:57,551] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 20:42:57,556] {logging_mixin.py:109} INFO - [2021-11-27 20:42:57,556] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 20:42:57,561] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.047 seconds
+[2021-11-27 20:43:54,348] {processor.py:163} INFO - Started process (PID=47210) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:43:54,349] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 20:43:54,349] {logging_mixin.py:109} INFO - [2021-11-27 20:43:54,349] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:43:54,381] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:43:54,392] {logging_mixin.py:109} INFO - [2021-11-27 20:43:54,392] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 20:43:54,397] {logging_mixin.py:109} INFO - [2021-11-27 20:43:54,397] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 20:43:54,402] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.054 seconds
+[2021-11-27 20:44:38,036] {processor.py:163} INFO - Started process (PID=47424) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:44:38,037] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 20:44:38,037] {logging_mixin.py:109} INFO - [2021-11-27 20:44:38,037] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:44:38,068] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:44:38,079] {logging_mixin.py:109} INFO - [2021-11-27 20:44:38,079] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 20:44:38,084] {logging_mixin.py:109} INFO - [2021-11-27 20:44:38,084] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 20:44:38,089] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.053 seconds
+[2021-11-27 20:48:45,326] {processor.py:163} INFO - Started process (PID=47745) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:48:45,327] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 20:48:45,327] {logging_mixin.py:109} INFO - [2021-11-27 20:48:45,327] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:48:45,360] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:48:45,375] {logging_mixin.py:109} INFO - [2021-11-27 20:48:45,375] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 20:48:45,380] {logging_mixin.py:109} INFO - [2021-11-27 20:48:45,380] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 20:48:45,451] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.125 seconds
+[2021-11-27 20:49:37,029] {processor.py:163} INFO - Started process (PID=47844) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:49:37,030] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 20:49:37,030] {logging_mixin.py:109} INFO - [2021-11-27 20:49:37,030] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:49:37,062] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:49:37,074] {logging_mixin.py:109} INFO - [2021-11-27 20:49:37,073] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 20:49:37,079] {logging_mixin.py:109} INFO - [2021-11-27 20:49:37,079] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 20:49:37,089] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.060 seconds
+[2021-11-27 20:50:22,677] {processor.py:163} INFO - Started process (PID=47941) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:50:22,678] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 20:50:22,678] {logging_mixin.py:109} INFO - [2021-11-27 20:50:22,678] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:50:22,710] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:50:22,721] {logging_mixin.py:109} INFO - [2021-11-27 20:50:22,721] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 20:50:22,725] {logging_mixin.py:109} INFO - [2021-11-27 20:50:22,725] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 20:50:22,734] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.057 seconds
+[2021-11-27 20:51:10,594] {processor.py:163} INFO - Started process (PID=48048) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:51:10,595] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 20:51:10,595] {logging_mixin.py:109} INFO - [2021-11-27 20:51:10,595] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:51:10,625] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:51:10,636] {logging_mixin.py:109} INFO - [2021-11-27 20:51:10,636] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 20:51:10,641] {logging_mixin.py:109} INFO - [2021-11-27 20:51:10,640] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 20:51:10,649] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.055 seconds
+[2021-11-27 20:51:55,634] {processor.py:163} INFO - Started process (PID=48144) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:51:55,634] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 20:51:55,634] {logging_mixin.py:109} INFO - [2021-11-27 20:51:55,634] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:51:55,664] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:51:55,675] {logging_mixin.py:109} INFO - [2021-11-27 20:51:55,675] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 20:51:55,680] {logging_mixin.py:109} INFO - [2021-11-27 20:51:55,680] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 20:51:55,685] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.052 seconds
+[2021-11-27 20:52:38,241] {processor.py:163} INFO - Started process (PID=48244) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:52:38,242] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 20:52:38,242] {logging_mixin.py:109} INFO - [2021-11-27 20:52:38,242] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:52:38,272] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:52:38,284] {logging_mixin.py:109} INFO - [2021-11-27 20:52:38,284] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 20:52:38,289] {logging_mixin.py:109} INFO - [2021-11-27 20:52:38,289] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 20:52:38,297] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.056 seconds
+[2021-11-27 20:53:33,176] {processor.py:163} INFO - Started process (PID=48354) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:53:33,177] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 20:53:33,177] {logging_mixin.py:109} INFO - [2021-11-27 20:53:33,177] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:53:33,210] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:53:33,223] {logging_mixin.py:109} INFO - [2021-11-27 20:53:33,223] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 20:53:33,229] {logging_mixin.py:109} INFO - [2021-11-27 20:53:33,229] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 20:53:33,239] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.063 seconds
+[2021-11-27 20:54:22,840] {processor.py:163} INFO - Started process (PID=48462) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:54:22,841] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 20:54:22,841] {logging_mixin.py:109} INFO - [2021-11-27 20:54:22,841] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:54:22,880] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:54:22,892] {logging_mixin.py:109} INFO - [2021-11-27 20:54:22,892] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 20:54:22,899] {logging_mixin.py:109} INFO - [2021-11-27 20:54:22,898] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 20:54:22,910] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.071 seconds
+[2021-11-27 20:55:23,332] {processor.py:163} INFO - Started process (PID=48671) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:55:23,332] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 20:55:23,332] {logging_mixin.py:109} INFO - [2021-11-27 20:55:23,332] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:55:23,365] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:55:23,376] {logging_mixin.py:109} INFO - [2021-11-27 20:55:23,376] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 20:55:23,381] {logging_mixin.py:109} INFO - [2021-11-27 20:55:23,381] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 20:55:23,385] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.054 seconds
+[2021-11-27 20:56:15,463] {processor.py:163} INFO - Started process (PID=48785) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:56:15,464] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 20:56:15,465] {logging_mixin.py:109} INFO - [2021-11-27 20:56:15,465] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:56:15,499] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:56:15,510] {logging_mixin.py:109} INFO - [2021-11-27 20:56:15,510] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 20:56:15,516] {logging_mixin.py:109} INFO - [2021-11-27 20:56:15,516] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 20:56:15,523] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.060 seconds
+[2021-11-27 20:57:02,078] {processor.py:163} INFO - Started process (PID=48877) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:57:02,079] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 20:57:02,079] {logging_mixin.py:109} INFO - [2021-11-27 20:57:02,079] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:57:02,120] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:57:02,137] {logging_mixin.py:109} INFO - [2021-11-27 20:57:02,137] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 20:57:02,143] {logging_mixin.py:109} INFO - [2021-11-27 20:57:02,143] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 20:57:02,155] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.077 seconds
+[2021-11-27 20:58:27,192] {processor.py:163} INFO - Started process (PID=49542) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:58:27,192] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 20:58:27,192] {logging_mixin.py:109} INFO - [2021-11-27 20:58:27,192] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:58:27,223] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:58:27,233] {logging_mixin.py:109} INFO - [2021-11-27 20:58:27,233] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 20:58:27,238] {logging_mixin.py:109} INFO - [2021-11-27 20:58:27,238] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 20:58:27,247] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.056 seconds
+[2021-11-27 20:59:53,986] {processor.py:163} INFO - Started process (PID=49666) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:59:53,986] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 20:59:53,986] {logging_mixin.py:109} INFO - [2021-11-27 20:59:53,986] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:59:54,017] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 20:59:54,028] {logging_mixin.py:109} INFO - [2021-11-27 20:59:54,028] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 20:59:54,032] {logging_mixin.py:109} INFO - [2021-11-27 20:59:54,032] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 20:59:54,230] {logging_mixin.py:109} INFO - [2021-11-27 20:59:54,230] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 20:59:54,241] {logging_mixin.py:109} INFO - [2021-11-27 20:59:54,241] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 20:59:54,867] {logging_mixin.py:109} INFO - [2021-11-27 20:59:54,867] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 20:59:54,882] {logging_mixin.py:109} INFO - [2021-11-27 20:59:54,882] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 21:00:51,581] {processor.py:163} INFO - Started process (PID=49758) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 21:00:51,582] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-27 21:00:51,582] {logging_mixin.py:109} INFO - [2021-11-27 21:00:51,582] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 21:00:51,614] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-27 21:00:51,625] {logging_mixin.py:109} INFO - [2021-11-27 21:00:51,625] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 21:00:51,630] {logging_mixin.py:109} INFO - [2021-11-27 21:00:51,629] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 21:00:51,636] {logging_mixin.py:109} INFO - [2021-11-27 21:00:51,636] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 21:00:51,639] {logging_mixin.py:109} INFO - [2021-11-27 21:00:51,639] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 21:00:51,731] {logging_mixin.py:109} INFO - [2021-11-27 21:00:51,731] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-27 21:00:51,746] {logging_mixin.py:109} INFO - [2021-11-27 21:00:51,746] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-27 21:01:42,225] {processor.py:163} INFO - Started process (PID=49847) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-28 11:05:23,305] {processor.py:163} INFO - Started process (PID=55703) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-28 11:05:23,305] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-28 11:05:23,306] {logging_mixin.py:109} INFO - [2021-11-28 11:05:23,306] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-28 11:05:23,335] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-28 11:05:23,346] {logging_mixin.py:109} INFO - [2021-11-28 11:05:23,345] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-28 11:05:23,351] {logging_mixin.py:109} INFO - [2021-11-28 11:05:23,351] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-27 00:00:00+00:00
+[2021-11-28 11:05:23,359] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.054 seconds

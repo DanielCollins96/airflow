@@ -1,0 +1,679 @@
+[2021-11-25 23:03:13,759] {processor.py:163} INFO - Started process (PID=5865) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-25 23:03:13,759] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-25 23:03:13,759] {logging_mixin.py:109} INFO - [2021-11-25 23:03:13,759] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-25 23:03:13,778] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-25 23:03:13,785] {logging_mixin.py:109} INFO - [2021-11-25 23:03:13,785] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-25 23:03:13,791] {logging_mixin.py:109} INFO - [2021-11-25 23:03:13,791] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-25 23:03:13,795] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.037 seconds
+[2021-11-25 23:04:40,648] {processor.py:163} INFO - Started process (PID=5998) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-25 23:04:40,651] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-25 23:04:40,651] {logging_mixin.py:109} INFO - [2021-11-25 23:04:40,651] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-25 23:04:40,674] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-25 23:04:40,683] {logging_mixin.py:109} INFO - [2021-11-25 23:04:40,683] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-25 23:04:40,688] {logging_mixin.py:109} INFO - [2021-11-25 23:04:40,688] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-25 23:04:40,692] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.045 seconds
+[2021-11-25 23:06:02,598] {processor.py:163} INFO - Started process (PID=6114) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-25 23:06:02,599] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-25 23:06:02,600] {logging_mixin.py:109} INFO - [2021-11-25 23:06:02,600] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-25 23:06:02,620] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-25 23:06:02,629] {logging_mixin.py:109} INFO - [2021-11-25 23:06:02,629] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-25 23:06:02,633] {logging_mixin.py:109} INFO - [2021-11-25 23:06:02,633] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-25 23:06:02,638] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.040 seconds
+[2021-11-25 23:07:24,628] {processor.py:163} INFO - Started process (PID=6220) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-25 23:07:24,629] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-25 23:07:24,629] {logging_mixin.py:109} INFO - [2021-11-25 23:07:24,629] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-25 23:07:24,648] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-25 23:07:24,658] {logging_mixin.py:109} INFO - [2021-11-25 23:07:24,657] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-25 23:07:24,662] {logging_mixin.py:109} INFO - [2021-11-25 23:07:24,661] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-25 23:07:24,666] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.039 seconds
+[2021-11-25 23:08:46,574] {processor.py:163} INFO - Started process (PID=6344) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-25 23:08:46,575] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-25 23:08:46,575] {logging_mixin.py:109} INFO - [2021-11-25 23:08:46,575] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-25 23:08:46,596] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-25 23:08:46,606] {logging_mixin.py:109} INFO - [2021-11-25 23:08:46,606] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-25 23:08:46,610] {logging_mixin.py:109} INFO - [2021-11-25 23:08:46,610] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-25 23:08:46,614] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.040 seconds
+[2021-11-25 23:10:09,440] {processor.py:163} INFO - Started process (PID=6455) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-25 23:10:09,440] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-25 23:10:09,440] {logging_mixin.py:109} INFO - [2021-11-25 23:10:09,440] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-25 23:10:09,459] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-25 23:10:09,469] {logging_mixin.py:109} INFO - [2021-11-25 23:10:09,469] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-25 23:10:09,473] {logging_mixin.py:109} INFO - [2021-11-25 23:10:09,473] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-25 23:10:09,478] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.039 seconds
+[2021-11-25 23:11:35,545] {processor.py:163} INFO - Started process (PID=6991) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-25 23:11:35,546] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-25 23:11:35,546] {logging_mixin.py:109} INFO - [2021-11-25 23:11:35,546] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-25 23:11:35,567] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-25 23:11:35,577] {logging_mixin.py:109} INFO - [2021-11-25 23:11:35,577] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-25 23:11:35,581] {logging_mixin.py:109} INFO - [2021-11-25 23:11:35,581] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-25 23:11:35,586] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.041 seconds
+[2021-11-25 23:12:57,161] {processor.py:163} INFO - Started process (PID=7396) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-25 23:12:57,162] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-25 23:12:57,162] {logging_mixin.py:109} INFO - [2021-11-25 23:12:57,162] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-25 23:12:57,184] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-25 23:12:57,193] {logging_mixin.py:109} INFO - [2021-11-25 23:12:57,193] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-25 23:12:57,197] {logging_mixin.py:109} INFO - [2021-11-25 23:12:57,197] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-25 23:12:57,202] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.042 seconds
+[2021-11-25 23:14:19,590] {processor.py:163} INFO - Started process (PID=7536) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-25 23:14:19,591] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-25 23:14:19,591] {logging_mixin.py:109} INFO - [2021-11-25 23:14:19,591] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-25 23:14:19,610] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-25 23:14:19,620] {logging_mixin.py:109} INFO - [2021-11-25 23:14:19,620] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-25 23:14:19,624] {logging_mixin.py:109} INFO - [2021-11-25 23:14:19,624] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-25 23:14:19,631] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.042 seconds
+[2021-11-25 23:15:43,436] {processor.py:163} INFO - Started process (PID=7638) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-25 23:15:43,436] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-25 23:15:43,436] {logging_mixin.py:109} INFO - [2021-11-25 23:15:43,436] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-25 23:15:43,459] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-25 23:15:43,469] {logging_mixin.py:109} INFO - [2021-11-25 23:15:43,469] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-25 23:15:43,473] {logging_mixin.py:109} INFO - [2021-11-25 23:15:43,473] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-25 23:15:43,479] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.043 seconds
+[2021-11-26 03:16:23,115] {processor.py:163} INFO - Started process (PID=7987) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 03:16:23,116] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 03:16:23,117] {logging_mixin.py:109} INFO - [2021-11-26 03:16:23,117] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 03:16:23,186] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 03:34:10,622] {logging_mixin.py:109} INFO - [2021-11-26 03:34:10,622] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 03:34:10,633] {logging_mixin.py:109} INFO - [2021-11-26 03:34:10,633] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 03:34:10,678] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.987 seconds
+[2021-11-26 08:22:01,359] {processor.py:163} INFO - Started process (PID=8458) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 08:22:01,360] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 08:22:01,361] {logging_mixin.py:109} INFO - [2021-11-26 08:22:01,360] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 08:22:01,381] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 08:22:01,390] {logging_mixin.py:109} INFO - [2021-11-26 08:22:01,390] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 08:22:01,395] {logging_mixin.py:109} INFO - [2021-11-26 08:22:01,395] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 08:22:01,404] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.044 seconds
+[2021-11-26 08:25:08,817] {processor.py:163} INFO - Started process (PID=8621) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 08:25:08,818] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 08:25:08,819] {logging_mixin.py:109} INFO - [2021-11-26 08:25:08,818] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 08:25:08,906] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 08:25:08,992] {logging_mixin.py:109} INFO - [2021-11-26 08:25:08,991] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 08:25:09,052] {logging_mixin.py:109} INFO - [2021-11-26 08:25:09,048] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 08:25:09,084] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.269 seconds
+[2021-11-26 08:27:10,023] {processor.py:163} INFO - Started process (PID=8851) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 08:27:10,025] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 08:27:10,025] {logging_mixin.py:109} INFO - [2021-11-26 08:27:10,025] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 08:27:10,120] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 08:27:10,173] {logging_mixin.py:109} INFO - [2021-11-26 08:27:10,173] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 08:27:10,178] {logging_mixin.py:109} INFO - [2021-11-26 08:27:10,178] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 08:27:10,184] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.175 seconds
+[2021-11-26 08:28:29,116] {processor.py:163} INFO - Started process (PID=9020) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 08:28:29,116] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 08:28:29,116] {logging_mixin.py:109} INFO - [2021-11-26 08:28:29,116] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 08:28:29,137] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 08:28:29,147] {logging_mixin.py:109} INFO - [2021-11-26 08:28:29,147] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 08:28:29,151] {logging_mixin.py:109} INFO - [2021-11-26 08:28:29,151] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 08:28:29,156] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.041 seconds
+[2021-11-26 08:29:47,351] {processor.py:163} INFO - Started process (PID=9122) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 08:29:47,352] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 08:29:47,352] {logging_mixin.py:109} INFO - [2021-11-26 08:29:47,352] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 08:29:47,374] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 08:29:47,384] {logging_mixin.py:109} INFO - [2021-11-26 08:29:47,384] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 08:29:47,388] {logging_mixin.py:109} INFO - [2021-11-26 08:29:47,388] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 08:29:47,394] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.043 seconds
+[2021-11-26 08:31:02,714] {processor.py:163} INFO - Started process (PID=9219) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 08:31:02,716] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 08:31:02,716] {logging_mixin.py:109} INFO - [2021-11-26 08:31:02,716] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 08:31:02,787] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 08:31:02,864] {logging_mixin.py:109} INFO - [2021-11-26 08:31:02,846] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 08:31:02,874] {logging_mixin.py:109} INFO - [2021-11-26 08:31:02,874] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 08:31:02,899] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.204 seconds
+[2021-11-26 08:32:19,859] {processor.py:163} INFO - Started process (PID=9312) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 08:32:19,859] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 08:32:19,859] {logging_mixin.py:109} INFO - [2021-11-26 08:32:19,859] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 08:32:19,880] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 08:32:19,890] {logging_mixin.py:109} INFO - [2021-11-26 08:32:19,890] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 08:32:19,894] {logging_mixin.py:109} INFO - [2021-11-26 08:32:19,894] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 08:32:19,900] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.041 seconds
+[2021-11-26 08:33:26,955] {processor.py:163} INFO - Started process (PID=9384) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 08:33:26,956] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 08:33:26,991] {logging_mixin.py:109} INFO - [2021-11-26 08:33:26,974] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 08:33:27,070] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 08:33:27,183] {logging_mixin.py:109} INFO - [2021-11-26 08:33:27,183] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 08:33:27,225] {logging_mixin.py:109} INFO - [2021-11-26 08:33:27,225] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 08:33:27,268] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.313 seconds
+[2021-11-26 08:34:20,299] {processor.py:163} INFO - Started process (PID=9454) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 08:34:20,300] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 08:34:20,301] {logging_mixin.py:109} INFO - [2021-11-26 08:34:20,301] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 08:34:20,453] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 08:34:20,629] {logging_mixin.py:109} INFO - [2021-11-26 08:34:20,628] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 08:34:20,675] {logging_mixin.py:109} INFO - [2021-11-26 08:34:20,675] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 08:34:20,733] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.458 seconds
+[2021-11-26 08:35:56,732] {processor.py:163} INFO - Started process (PID=9531) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 08:35:56,732] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 08:35:56,733] {logging_mixin.py:109} INFO - [2021-11-26 08:35:56,733] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 08:35:56,791] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 08:35:56,806] {logging_mixin.py:109} INFO - [2021-11-26 08:35:56,806] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 08:35:56,833] {logging_mixin.py:109} INFO - [2021-11-26 08:35:56,833] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 08:35:56,840] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.109 seconds
+[2021-11-26 08:38:02,116] {processor.py:163} INFO - Started process (PID=9683) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 08:38:02,116] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 08:38:02,132] {logging_mixin.py:109} INFO - [2021-11-26 08:38:02,132] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 08:38:02,220] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 08:38:02,276] {logging_mixin.py:109} INFO - [2021-11-26 08:38:02,275] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 08:38:02,315] {logging_mixin.py:109} INFO - [2021-11-26 08:38:02,315] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 08:38:02,341] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.226 seconds
+[2021-11-26 08:39:09,871] {processor.py:163} INFO - Started process (PID=9780) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 08:39:09,871] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 08:39:09,872] {logging_mixin.py:109} INFO - [2021-11-26 08:39:09,872] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 08:39:09,894] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 08:39:09,932] {logging_mixin.py:109} INFO - [2021-11-26 08:39:09,932] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 08:39:09,936] {logging_mixin.py:109} INFO - [2021-11-26 08:39:09,936] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 08:39:09,942] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.072 seconds
+[2021-11-26 09:11:02,149] {processor.py:163} INFO - Started process (PID=9916) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 09:11:02,150] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 09:11:02,150] {logging_mixin.py:109} INFO - [2021-11-26 09:11:02,150] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 09:11:02,169] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 09:11:02,178] {logging_mixin.py:109} INFO - [2021-11-26 09:11:02,178] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 09:11:02,182] {logging_mixin.py:109} INFO - [2021-11-26 09:11:02,182] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 09:11:02,188] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.038 seconds
+[2021-11-26 11:19:47,977] {processor.py:163} INFO - Started process (PID=10237) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 11:19:47,985] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 11:19:47,985] {logging_mixin.py:109} INFO - [2021-11-26 11:19:47,985] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 11:19:48,054] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 11:19:48,070] {logging_mixin.py:109} INFO - [2021-11-26 11:19:48,070] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 11:19:48,076] {logging_mixin.py:109} INFO - [2021-11-26 11:19:48,076] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 11:19:48,166] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.188 seconds
+[2021-11-26 11:20:55,213] {processor.py:163} INFO - Started process (PID=10392) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 11:20:55,214] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 11:20:55,214] {logging_mixin.py:109} INFO - [2021-11-26 11:20:55,214] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 11:20:55,235] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 11:20:55,245] {logging_mixin.py:109} INFO - [2021-11-26 11:20:55,245] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 11:20:55,249] {logging_mixin.py:109} INFO - [2021-11-26 11:20:55,249] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 11:20:55,259] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.046 seconds
+[2021-11-26 11:22:17,626] {processor.py:163} INFO - Started process (PID=10521) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 11:22:17,627] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 11:22:17,628] {logging_mixin.py:109} INFO - [2021-11-26 11:22:17,628] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 11:22:17,649] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 11:22:17,658] {logging_mixin.py:109} INFO - [2021-11-26 11:22:17,658] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 11:22:17,662] {logging_mixin.py:109} INFO - [2021-11-26 11:22:17,662] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 11:22:17,668] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.042 seconds
+[2021-11-26 11:23:41,956] {processor.py:163} INFO - Started process (PID=10638) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 11:23:41,957] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 11:23:41,957] {logging_mixin.py:109} INFO - [2021-11-26 11:23:41,957] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 11:23:41,976] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 11:23:41,986] {logging_mixin.py:109} INFO - [2021-11-26 11:23:41,986] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 11:23:41,990] {logging_mixin.py:109} INFO - [2021-11-26 11:23:41,990] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 11:23:41,995] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.040 seconds
+[2021-11-26 11:25:04,229] {processor.py:163} INFO - Started process (PID=10774) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 11:25:04,230] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 11:25:04,230] {logging_mixin.py:109} INFO - [2021-11-26 11:25:04,230] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 11:25:04,252] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 11:25:04,262] {logging_mixin.py:109} INFO - [2021-11-26 11:25:04,262] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 11:25:04,267] {logging_mixin.py:109} INFO - [2021-11-26 11:25:04,267] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 11:25:04,272] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.044 seconds
+[2021-11-26 12:20:11,636] {processor.py:163} INFO - Started process (PID=10990) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:20:11,637] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 12:20:11,637] {logging_mixin.py:109} INFO - [2021-11-26 12:20:11,637] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:20:11,661] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:20:11,670] {logging_mixin.py:109} INFO - [2021-11-26 12:20:11,670] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 12:20:11,674] {logging_mixin.py:109} INFO - [2021-11-26 12:20:11,674] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 12:20:11,680] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.044 seconds
+[2021-11-26 12:21:22,877] {processor.py:163} INFO - Started process (PID=11180) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:21:22,877] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 12:21:22,878] {logging_mixin.py:109} INFO - [2021-11-26 12:21:22,878] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:21:22,897] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:21:22,907] {logging_mixin.py:109} INFO - [2021-11-26 12:21:22,907] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 12:21:22,911] {logging_mixin.py:109} INFO - [2021-11-26 12:21:22,911] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 12:21:22,917] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.040 seconds
+[2021-11-26 12:22:47,720] {processor.py:163} INFO - Started process (PID=11301) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:22:47,721] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 12:22:47,721] {logging_mixin.py:109} INFO - [2021-11-26 12:22:47,721] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:22:47,741] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:22:47,752] {logging_mixin.py:109} INFO - [2021-11-26 12:22:47,752] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 12:22:47,756] {logging_mixin.py:109} INFO - [2021-11-26 12:22:47,756] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 12:22:47,761] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.041 seconds
+[2021-11-26 12:24:10,549] {processor.py:163} INFO - Started process (PID=11451) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:24:10,549] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 12:24:10,549] {logging_mixin.py:109} INFO - [2021-11-26 12:24:10,549] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:24:10,570] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:24:10,580] {logging_mixin.py:109} INFO - [2021-11-26 12:24:10,580] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 12:24:10,584] {logging_mixin.py:109} INFO - [2021-11-26 12:24:10,584] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 12:24:10,589] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.041 seconds
+[2021-11-26 12:25:35,724] {processor.py:163} INFO - Started process (PID=11572) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:25:35,725] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 12:25:35,725] {logging_mixin.py:109} INFO - [2021-11-26 12:25:35,725] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:25:35,744] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:25:35,757] {logging_mixin.py:109} INFO - [2021-11-26 12:25:35,757] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 12:25:35,761] {logging_mixin.py:109} INFO - [2021-11-26 12:25:35,761] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 12:25:35,766] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.042 seconds
+[2021-11-26 12:26:20,625] {processor.py:163} INFO - Started process (PID=11663) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:26:20,626] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 12:26:20,626] {logging_mixin.py:109} INFO - [2021-11-26 12:26:20,626] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:26:20,645] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:26:20,656] {logging_mixin.py:109} INFO - [2021-11-26 12:26:20,656] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 12:26:20,660] {logging_mixin.py:109} INFO - [2021-11-26 12:26:20,660] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 12:26:20,664] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.039 seconds
+[2021-11-26 12:27:06,723] {processor.py:163} INFO - Started process (PID=11729) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:27:06,724] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 12:27:06,724] {logging_mixin.py:109} INFO - [2021-11-26 12:27:06,724] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:27:06,743] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:27:06,753] {logging_mixin.py:109} INFO - [2021-11-26 12:27:06,753] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 12:27:06,758] {logging_mixin.py:109} INFO - [2021-11-26 12:27:06,758] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 12:27:06,762] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.040 seconds
+[2021-11-26 12:27:52,672] {processor.py:163} INFO - Started process (PID=11863) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:27:52,673] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 12:27:52,674] {logging_mixin.py:109} INFO - [2021-11-26 12:27:52,674] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:27:52,693] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:27:52,703] {logging_mixin.py:109} INFO - [2021-11-26 12:27:52,703] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 12:27:52,707] {logging_mixin.py:109} INFO - [2021-11-26 12:27:52,707] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 12:27:52,712] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.040 seconds
+[2021-11-26 12:29:16,100] {processor.py:163} INFO - Started process (PID=11988) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:29:16,102] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 12:29:16,102] {logging_mixin.py:109} INFO - [2021-11-26 12:29:16,102] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:29:16,121] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:29:16,131] {logging_mixin.py:109} INFO - [2021-11-26 12:29:16,131] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 12:29:16,135] {logging_mixin.py:109} INFO - [2021-11-26 12:29:16,135] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 12:29:16,142] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.042 seconds
+[2021-11-26 12:30:01,242] {processor.py:163} INFO - Started process (PID=12066) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:30:01,244] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 12:30:01,244] {logging_mixin.py:109} INFO - [2021-11-26 12:30:01,244] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:30:01,263] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:30:01,273] {logging_mixin.py:109} INFO - [2021-11-26 12:30:01,273] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 12:30:01,277] {logging_mixin.py:109} INFO - [2021-11-26 12:30:01,277] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 12:30:01,282] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.039 seconds
+[2021-11-26 12:31:26,358] {processor.py:163} INFO - Started process (PID=12196) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:31:26,358] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 12:31:26,359] {logging_mixin.py:109} INFO - [2021-11-26 12:31:26,359] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:31:26,380] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:31:26,391] {logging_mixin.py:109} INFO - [2021-11-26 12:31:26,391] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 12:31:26,396] {logging_mixin.py:109} INFO - [2021-11-26 12:31:26,395] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 12:31:26,407] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.049 seconds
+[2021-11-26 12:32:49,304] {processor.py:163} INFO - Started process (PID=12303) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:32:49,304] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 12:32:49,305] {logging_mixin.py:109} INFO - [2021-11-26 12:32:49,305] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:32:49,323] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:32:49,333] {logging_mixin.py:109} INFO - [2021-11-26 12:32:49,333] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 12:32:49,337] {logging_mixin.py:109} INFO - [2021-11-26 12:32:49,337] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 12:32:49,342] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.039 seconds
+[2021-11-26 12:34:19,559] {processor.py:163} INFO - Started process (PID=12461) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:34:19,560] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 12:34:19,560] {logging_mixin.py:109} INFO - [2021-11-26 12:34:19,560] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:34:19,582] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:34:19,591] {logging_mixin.py:109} INFO - [2021-11-26 12:34:19,591] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 12:34:19,595] {logging_mixin.py:109} INFO - [2021-11-26 12:34:19,595] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 12:34:19,601] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.043 seconds
+[2021-11-26 12:35:05,640] {processor.py:163} INFO - Started process (PID=12538) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:35:05,640] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 12:35:05,640] {logging_mixin.py:109} INFO - [2021-11-26 12:35:05,640] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:35:05,659] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:35:05,668] {logging_mixin.py:109} INFO - [2021-11-26 12:35:05,668] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 12:35:05,672] {logging_mixin.py:109} INFO - [2021-11-26 12:35:05,672] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 12:35:05,678] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.038 seconds
+[2021-11-26 12:35:52,143] {processor.py:163} INFO - Started process (PID=12654) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:35:52,144] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 12:35:52,145] {logging_mixin.py:109} INFO - [2021-11-26 12:35:52,145] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:35:52,164] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:35:52,174] {logging_mixin.py:109} INFO - [2021-11-26 12:35:52,174] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 12:35:52,180] {logging_mixin.py:109} INFO - [2021-11-26 12:35:52,180] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 12:35:52,188] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.045 seconds
+[2021-11-26 12:36:37,019] {processor.py:163} INFO - Started process (PID=12733) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:36:37,020] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 12:36:37,020] {logging_mixin.py:109} INFO - [2021-11-26 12:36:37,020] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:36:37,039] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:36:37,048] {logging_mixin.py:109} INFO - [2021-11-26 12:36:37,048] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 12:36:37,052] {logging_mixin.py:109} INFO - [2021-11-26 12:36:37,052] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 12:36:37,057] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.038 seconds
+[2021-11-26 12:38:03,352] {processor.py:163} INFO - Started process (PID=12878) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:38:03,352] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 12:38:03,353] {logging_mixin.py:109} INFO - [2021-11-26 12:38:03,353] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:38:03,392] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:38:03,406] {logging_mixin.py:109} INFO - [2021-11-26 12:38:03,406] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 12:38:03,411] {logging_mixin.py:109} INFO - [2021-11-26 12:38:03,411] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 12:38:03,417] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.066 seconds
+[2021-11-26 12:38:48,351] {processor.py:163} INFO - Started process (PID=12946) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:38:48,352] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 12:38:48,352] {logging_mixin.py:109} INFO - [2021-11-26 12:38:48,352] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:38:48,372] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:38:48,381] {logging_mixin.py:109} INFO - [2021-11-26 12:38:48,381] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 12:38:48,386] {logging_mixin.py:109} INFO - [2021-11-26 12:38:48,386] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 12:38:48,395] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.044 seconds
+[2021-11-26 12:39:33,210] {processor.py:163} INFO - Started process (PID=13010) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:39:33,211] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 12:39:33,211] {logging_mixin.py:109} INFO - [2021-11-26 12:39:33,211] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:39:33,230] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:39:33,240] {logging_mixin.py:109} INFO - [2021-11-26 12:39:33,240] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 12:39:33,244] {logging_mixin.py:109} INFO - [2021-11-26 12:39:33,244] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 12:39:33,250] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.040 seconds
+[2021-11-26 12:41:02,148] {processor.py:163} INFO - Started process (PID=13155) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:41:02,149] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 12:41:02,149] {logging_mixin.py:109} INFO - [2021-11-26 12:41:02,149] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:41:02,167] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:41:02,176] {logging_mixin.py:109} INFO - [2021-11-26 12:41:02,176] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 12:41:02,180] {logging_mixin.py:109} INFO - [2021-11-26 12:41:02,180] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 12:41:02,186] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.038 seconds
+[2021-11-26 12:42:25,169] {processor.py:163} INFO - Started process (PID=13266) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:42:25,170] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 12:42:25,170] {logging_mixin.py:109} INFO - [2021-11-26 12:42:25,170] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:42:25,192] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:42:25,201] {logging_mixin.py:109} INFO - [2021-11-26 12:42:25,201] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 12:42:25,205] {logging_mixin.py:109} INFO - [2021-11-26 12:42:25,205] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 12:42:25,210] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.042 seconds
+[2021-11-26 12:43:12,432] {processor.py:163} INFO - Started process (PID=13401) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:43:12,433] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 12:43:12,434] {logging_mixin.py:109} INFO - [2021-11-26 12:43:12,434] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:43:12,455] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:43:12,465] {logging_mixin.py:109} INFO - [2021-11-26 12:43:12,465] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 12:43:12,470] {logging_mixin.py:109} INFO - [2021-11-26 12:43:12,470] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 12:43:12,476] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.044 seconds
+[2021-11-26 12:43:59,008] {processor.py:163} INFO - Started process (PID=13456) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:43:59,009] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 12:43:59,009] {logging_mixin.py:109} INFO - [2021-11-26 12:43:59,009] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:43:59,037] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:43:59,046] {logging_mixin.py:109} INFO - [2021-11-26 12:43:59,046] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 12:43:59,051] {logging_mixin.py:109} INFO - [2021-11-26 12:43:59,050] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 12:43:59,055] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.048 seconds
+[2021-11-26 12:44:45,334] {processor.py:163} INFO - Started process (PID=13509) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:44:45,335] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 12:44:45,335] {logging_mixin.py:109} INFO - [2021-11-26 12:44:45,335] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:44:45,354] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:44:45,364] {logging_mixin.py:109} INFO - [2021-11-26 12:44:45,364] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 12:44:45,369] {logging_mixin.py:109} INFO - [2021-11-26 12:44:45,369] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 12:44:45,373] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.039 seconds
+[2021-11-26 12:45:32,477] {processor.py:163} INFO - Started process (PID=13592) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:45:32,478] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 12:45:32,478] {logging_mixin.py:109} INFO - [2021-11-26 12:45:32,478] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:45:32,497] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:45:32,508] {logging_mixin.py:109} INFO - [2021-11-26 12:45:32,508] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 12:45:32,512] {logging_mixin.py:109} INFO - [2021-11-26 12:45:32,512] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 12:45:32,517] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.040 seconds
+[2021-11-26 12:46:58,362] {processor.py:163} INFO - Started process (PID=13716) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:46:58,363] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 12:46:58,363] {logging_mixin.py:109} INFO - [2021-11-26 12:46:58,363] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:46:58,383] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:46:58,393] {logging_mixin.py:109} INFO - [2021-11-26 12:46:58,393] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 12:46:58,398] {logging_mixin.py:109} INFO - [2021-11-26 12:46:58,398] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 12:46:58,404] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.042 seconds
+[2021-11-26 12:48:27,466] {processor.py:163} INFO - Started process (PID=13845) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:48:27,466] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 12:48:27,467] {logging_mixin.py:109} INFO - [2021-11-26 12:48:27,467] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:48:27,490] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:48:27,501] {logging_mixin.py:109} INFO - [2021-11-26 12:48:27,501] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 12:48:27,506] {logging_mixin.py:109} INFO - [2021-11-26 12:48:27,506] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 12:48:27,512] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.047 seconds
+[2021-11-26 12:49:13,894] {processor.py:163} INFO - Started process (PID=13930) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:49:13,895] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 12:49:13,895] {logging_mixin.py:109} INFO - [2021-11-26 12:49:13,895] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:49:13,915] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:49:13,927] {logging_mixin.py:109} INFO - [2021-11-26 12:49:13,927] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 12:49:13,931] {logging_mixin.py:109} INFO - [2021-11-26 12:49:13,931] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 12:49:13,939] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.045 seconds
+[2021-11-26 12:50:40,649] {processor.py:163} INFO - Started process (PID=14097) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:50:40,650] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 12:50:40,650] {logging_mixin.py:109} INFO - [2021-11-26 12:50:40,650] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:50:40,669] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:50:40,679] {logging_mixin.py:109} INFO - [2021-11-26 12:50:40,679] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 12:50:40,683] {logging_mixin.py:109} INFO - [2021-11-26 12:50:40,683] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 12:50:40,688] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.039 seconds
+[2021-11-26 12:51:27,305] {processor.py:163} INFO - Started process (PID=14169) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:51:27,307] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 12:51:27,308] {logging_mixin.py:109} INFO - [2021-11-26 12:51:27,308] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:51:27,333] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 12:51:27,344] {logging_mixin.py:109} INFO - [2021-11-26 12:51:27,344] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 12:51:27,349] {logging_mixin.py:109} INFO - [2021-11-26 12:51:27,348] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 12:51:27,367] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.063 seconds
+[2021-11-26 13:02:10,352] {processor.py:163} INFO - Started process (PID=14345) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 13:02:10,353] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 13:02:10,353] {logging_mixin.py:109} INFO - [2021-11-26 13:02:10,353] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 13:02:10,372] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 13:02:10,382] {logging_mixin.py:109} INFO - [2021-11-26 13:02:10,381] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 13:02:10,386] {logging_mixin.py:109} INFO - [2021-11-26 13:02:10,386] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 13:02:10,395] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.043 seconds
+[2021-11-26 13:03:25,617] {processor.py:163} INFO - Started process (PID=14458) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 13:03:25,618] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 13:03:25,618] {logging_mixin.py:109} INFO - [2021-11-26 13:03:25,618] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 13:03:25,638] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 13:03:25,648] {logging_mixin.py:109} INFO - [2021-11-26 13:03:25,648] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 13:03:25,653] {logging_mixin.py:109} INFO - [2021-11-26 13:03:25,653] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 13:03:25,658] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.042 seconds
+[2021-11-26 13:04:49,087] {processor.py:163} INFO - Started process (PID=14577) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 13:04:49,088] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 13:04:49,088] {logging_mixin.py:109} INFO - [2021-11-26 13:04:49,088] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 13:04:49,106] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 13:04:49,116] {logging_mixin.py:109} INFO - [2021-11-26 13:04:49,116] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 13:04:49,120] {logging_mixin.py:109} INFO - [2021-11-26 13:04:49,120] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 13:04:49,125] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.038 seconds
+[2021-11-26 13:06:10,581] {processor.py:163} INFO - Started process (PID=14680) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 13:06:10,583] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 13:06:10,583] {logging_mixin.py:109} INFO - [2021-11-26 13:06:10,583] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 13:06:10,604] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 13:06:10,613] {logging_mixin.py:109} INFO - [2021-11-26 13:06:10,613] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 13:06:10,617] {logging_mixin.py:109} INFO - [2021-11-26 13:06:10,617] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 13:06:10,622] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.041 seconds
+[2021-11-26 13:07:32,053] {processor.py:163} INFO - Started process (PID=14938) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 13:07:32,054] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 13:07:32,054] {logging_mixin.py:109} INFO - [2021-11-26 13:07:32,054] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 13:07:32,072] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 13:07:32,081] {logging_mixin.py:109} INFO - [2021-11-26 13:07:32,081] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 13:07:32,085] {logging_mixin.py:109} INFO - [2021-11-26 13:07:32,085] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 13:07:32,090] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.037 seconds
+[2021-11-26 13:09:32,009] {processor.py:163} INFO - Started process (PID=15099) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 13:09:32,010] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 13:09:32,011] {logging_mixin.py:109} INFO - [2021-11-26 13:09:32,010] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 13:09:32,034] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 13:09:32,044] {logging_mixin.py:109} INFO - [2021-11-26 13:09:32,044] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 13:09:32,048] {logging_mixin.py:109} INFO - [2021-11-26 13:09:32,048] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 13:09:32,053] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.044 seconds
+[2021-11-26 13:14:35,113] {processor.py:163} INFO - Started process (PID=15255) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 13:14:35,144] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 13:14:35,145] {logging_mixin.py:109} INFO - [2021-11-26 13:14:35,145] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 13:14:35,167] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 13:14:35,177] {logging_mixin.py:109} INFO - [2021-11-26 13:14:35,176] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 13:14:35,181] {logging_mixin.py:109} INFO - [2021-11-26 13:14:35,181] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 13:14:35,210] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.098 seconds
+[2021-11-26 13:16:01,998] {processor.py:163} INFO - Started process (PID=15395) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 13:16:01,998] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 13:16:01,998] {logging_mixin.py:109} INFO - [2021-11-26 13:16:01,998] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 13:16:02,019] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 13:16:02,029] {logging_mixin.py:109} INFO - [2021-11-26 13:16:02,028] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 13:16:02,033] {logging_mixin.py:109} INFO - [2021-11-26 13:16:02,032] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 13:16:02,038] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.041 seconds
+[2021-11-26 13:19:25,812] {processor.py:163} INFO - Started process (PID=15524) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 13:19:25,812] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 13:19:25,813] {logging_mixin.py:109} INFO - [2021-11-26 13:19:25,813] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 13:19:25,831] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 13:19:25,841] {logging_mixin.py:109} INFO - [2021-11-26 13:19:25,841] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 13:19:25,845] {logging_mixin.py:109} INFO - [2021-11-26 13:19:25,845] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 13:19:25,851] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.040 seconds
+[2021-11-26 13:20:48,053] {processor.py:163} INFO - Started process (PID=15666) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 13:20:48,054] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 13:20:48,054] {logging_mixin.py:109} INFO - [2021-11-26 13:20:48,054] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 13:20:48,076] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 13:20:48,085] {logging_mixin.py:109} INFO - [2021-11-26 13:20:48,085] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 13:20:48,089] {logging_mixin.py:109} INFO - [2021-11-26 13:20:48,089] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 13:20:48,094] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.042 seconds
+[2021-11-26 15:32:03,586] {processor.py:163} INFO - Started process (PID=15957) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 15:32:03,586] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 15:32:03,586] {logging_mixin.py:109} INFO - [2021-11-26 15:32:03,586] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 15:32:03,604] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 15:32:03,613] {logging_mixin.py:109} INFO - [2021-11-26 15:32:03,613] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 15:32:03,617] {logging_mixin.py:109} INFO - [2021-11-26 15:32:03,617] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 15:32:03,626] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.040 seconds
+[2021-11-26 15:32:52,818] {processor.py:163} INFO - Started process (PID=16053) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 15:32:52,819] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 15:32:52,820] {logging_mixin.py:109} INFO - [2021-11-26 15:32:52,820] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 15:32:52,845] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 15:32:52,859] {logging_mixin.py:109} INFO - [2021-11-26 15:32:52,859] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 15:32:52,864] {logging_mixin.py:109} INFO - [2021-11-26 15:32:52,864] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 15:32:52,873] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.055 seconds
+[2021-11-26 15:33:39,689] {processor.py:163} INFO - Started process (PID=16113) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 15:33:39,690] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 15:33:39,690] {logging_mixin.py:109} INFO - [2021-11-26 15:33:39,690] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 15:33:39,710] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 15:33:39,721] {logging_mixin.py:109} INFO - [2021-11-26 15:33:39,720] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 15:33:39,725] {logging_mixin.py:109} INFO - [2021-11-26 15:33:39,725] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 15:33:39,730] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.041 seconds
+[2021-11-26 16:25:32,483] {processor.py:163} INFO - Started process (PID=16299) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:25:32,485] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 16:25:32,486] {logging_mixin.py:109} INFO - [2021-11-26 16:25:32,486] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:25:32,508] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:25:32,519] {logging_mixin.py:109} INFO - [2021-11-26 16:25:32,519] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 16:25:32,523] {logging_mixin.py:109} INFO - [2021-11-26 16:25:32,523] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 16:25:32,568] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.086 seconds
+[2021-11-26 16:28:13,138] {processor.py:163} INFO - Started process (PID=16441) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:28:13,139] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 16:28:13,139] {logging_mixin.py:109} INFO - [2021-11-26 16:28:13,139] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:28:13,167] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:28:13,180] {logging_mixin.py:109} INFO - [2021-11-26 16:28:13,180] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 16:28:13,186] {logging_mixin.py:109} INFO - [2021-11-26 16:28:13,186] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 16:28:13,197] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.059 seconds
+[2021-11-26 16:29:01,932] {processor.py:163} INFO - Started process (PID=16532) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:29:01,935] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 16:29:01,935] {logging_mixin.py:109} INFO - [2021-11-26 16:29:01,935] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:29:01,961] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:29:01,977] {logging_mixin.py:109} INFO - [2021-11-26 16:29:01,977] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 16:29:01,983] {logging_mixin.py:109} INFO - [2021-11-26 16:29:01,983] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 16:29:01,988] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.057 seconds
+[2021-11-26 16:29:48,456] {processor.py:163} INFO - Started process (PID=16598) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:29:48,457] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 16:29:48,457] {logging_mixin.py:109} INFO - [2021-11-26 16:29:48,457] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:29:48,483] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:29:48,495] {logging_mixin.py:109} INFO - [2021-11-26 16:29:48,495] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 16:29:48,499] {logging_mixin.py:109} INFO - [2021-11-26 16:29:48,499] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 16:29:48,507] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.052 seconds
+[2021-11-26 16:31:12,013] {processor.py:163} INFO - Started process (PID=16716) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:31:12,014] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 16:31:12,014] {logging_mixin.py:109} INFO - [2021-11-26 16:31:12,014] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:31:12,034] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:31:12,044] {logging_mixin.py:109} INFO - [2021-11-26 16:31:12,044] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 16:31:12,049] {logging_mixin.py:109} INFO - [2021-11-26 16:31:12,049] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 16:31:12,054] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.041 seconds
+[2021-11-26 16:32:35,566] {processor.py:163} INFO - Started process (PID=16876) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:32:35,567] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 16:32:35,567] {logging_mixin.py:109} INFO - [2021-11-26 16:32:35,567] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:32:35,586] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:32:35,597] {logging_mixin.py:109} INFO - [2021-11-26 16:32:35,596] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 16:32:35,601] {logging_mixin.py:109} INFO - [2021-11-26 16:32:35,601] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 16:32:35,607] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.041 seconds
+[2021-11-26 16:33:58,854] {processor.py:163} INFO - Started process (PID=16981) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:33:58,855] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 16:33:58,855] {logging_mixin.py:109} INFO - [2021-11-26 16:33:58,855] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:33:58,875] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:33:58,885] {logging_mixin.py:109} INFO - [2021-11-26 16:33:58,885] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 16:33:58,889] {logging_mixin.py:109} INFO - [2021-11-26 16:33:58,889] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 16:33:58,897] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.043 seconds
+[2021-11-26 16:35:20,631] {processor.py:163} INFO - Started process (PID=17091) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:35:20,632] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 16:35:20,632] {logging_mixin.py:109} INFO - [2021-11-26 16:35:20,632] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:35:20,651] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:35:20,662] {logging_mixin.py:109} INFO - [2021-11-26 16:35:20,661] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 16:35:20,666] {logging_mixin.py:109} INFO - [2021-11-26 16:35:20,666] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 16:35:20,672] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.041 seconds
+[2021-11-26 16:36:42,825] {processor.py:163} INFO - Started process (PID=17211) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:36:42,825] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 16:36:42,826] {logging_mixin.py:109} INFO - [2021-11-26 16:36:42,825] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:36:42,844] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:36:42,854] {logging_mixin.py:109} INFO - [2021-11-26 16:36:42,854] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 16:36:42,859] {logging_mixin.py:109} INFO - [2021-11-26 16:36:42,859] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 16:36:42,869] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.044 seconds
+[2021-11-26 16:38:06,653] {processor.py:163} INFO - Started process (PID=17337) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:38:06,653] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 16:38:06,653] {logging_mixin.py:109} INFO - [2021-11-26 16:38:06,653] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:38:06,674] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:38:06,686] {logging_mixin.py:109} INFO - [2021-11-26 16:38:06,686] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 16:38:06,690] {logging_mixin.py:109} INFO - [2021-11-26 16:38:06,690] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 16:38:06,701] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.048 seconds
+[2021-11-26 16:39:28,977] {processor.py:163} INFO - Started process (PID=17442) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:39:28,977] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 16:39:28,978] {logging_mixin.py:109} INFO - [2021-11-26 16:39:28,978] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:39:28,997] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:39:29,007] {logging_mixin.py:109} INFO - [2021-11-26 16:39:29,007] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 16:39:29,011] {logging_mixin.py:109} INFO - [2021-11-26 16:39:29,011] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 16:39:29,020] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.043 seconds
+[2021-11-26 16:40:52,719] {processor.py:163} INFO - Started process (PID=17553) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:40:52,719] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 16:40:52,720] {logging_mixin.py:109} INFO - [2021-11-26 16:40:52,720] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:40:52,739] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:40:52,749] {logging_mixin.py:109} INFO - [2021-11-26 16:40:52,749] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 16:40:52,753] {logging_mixin.py:109} INFO - [2021-11-26 16:40:52,753] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 16:40:52,763] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.044 seconds
+[2021-11-26 16:42:13,515] {processor.py:163} INFO - Started process (PID=17660) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:42:13,516] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 16:42:13,516] {logging_mixin.py:109} INFO - [2021-11-26 16:42:13,516] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:42:13,537] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:42:13,546] {logging_mixin.py:109} INFO - [2021-11-26 16:42:13,546] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 16:42:13,550] {logging_mixin.py:109} INFO - [2021-11-26 16:42:13,550] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 16:42:13,555] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.040 seconds
+[2021-11-26 16:43:36,493] {processor.py:163} INFO - Started process (PID=17780) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:43:36,494] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 16:43:36,494] {logging_mixin.py:109} INFO - [2021-11-26 16:43:36,494] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:43:36,514] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:43:36,523] {logging_mixin.py:109} INFO - [2021-11-26 16:43:36,523] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 16:43:36,528] {logging_mixin.py:109} INFO - [2021-11-26 16:43:36,528] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 16:43:36,539] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.046 seconds
+[2021-11-26 16:45:03,060] {processor.py:163} INFO - Started process (PID=17944) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:45:03,061] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 16:45:03,061] {logging_mixin.py:109} INFO - [2021-11-26 16:45:03,061] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:45:03,081] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:45:03,090] {logging_mixin.py:109} INFO - [2021-11-26 16:45:03,090] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 16:45:03,095] {logging_mixin.py:109} INFO - [2021-11-26 16:45:03,095] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 16:45:03,105] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.046 seconds
+[2021-11-26 16:46:25,173] {processor.py:163} INFO - Started process (PID=18046) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:46:25,173] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 16:46:25,173] {logging_mixin.py:109} INFO - [2021-11-26 16:46:25,173] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:46:25,193] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:46:25,203] {logging_mixin.py:109} INFO - [2021-11-26 16:46:25,203] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 16:46:25,207] {logging_mixin.py:109} INFO - [2021-11-26 16:46:25,207] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 16:46:25,220] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.048 seconds
+[2021-11-26 16:47:49,697] {processor.py:163} INFO - Started process (PID=18204) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:47:49,698] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 16:47:49,698] {logging_mixin.py:109} INFO - [2021-11-26 16:47:49,698] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:47:49,717] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:47:49,726] {logging_mixin.py:109} INFO - [2021-11-26 16:47:49,726] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 16:47:49,730] {logging_mixin.py:109} INFO - [2021-11-26 16:47:49,730] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 16:47:49,735] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.039 seconds
+[2021-11-26 16:49:12,460] {processor.py:163} INFO - Started process (PID=18343) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:49:12,461] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 16:49:12,461] {logging_mixin.py:109} INFO - [2021-11-26 16:49:12,461] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:49:12,479] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:49:12,489] {logging_mixin.py:109} INFO - [2021-11-26 16:49:12,489] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 16:49:12,493] {logging_mixin.py:109} INFO - [2021-11-26 16:49:12,493] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 16:49:12,498] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.038 seconds
+[2021-11-26 16:50:36,399] {processor.py:163} INFO - Started process (PID=18446) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:50:36,400] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 16:50:36,400] {logging_mixin.py:109} INFO - [2021-11-26 16:50:36,400] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:50:36,419] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:50:36,429] {logging_mixin.py:109} INFO - [2021-11-26 16:50:36,429] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 16:50:36,434] {logging_mixin.py:109} INFO - [2021-11-26 16:50:36,434] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 16:50:36,439] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.040 seconds
+[2021-11-26 16:51:57,193] {processor.py:163} INFO - Started process (PID=18551) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:51:57,195] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 16:51:57,195] {logging_mixin.py:109} INFO - [2021-11-26 16:51:57,195] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:51:57,214] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:51:57,223] {logging_mixin.py:109} INFO - [2021-11-26 16:51:57,223] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 16:51:57,228] {logging_mixin.py:109} INFO - [2021-11-26 16:51:57,228] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 16:51:57,233] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.040 seconds
+[2021-11-26 16:53:18,835] {processor.py:163} INFO - Started process (PID=18650) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:53:18,835] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 16:53:18,836] {logging_mixin.py:109} INFO - [2021-11-26 16:53:18,836] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:53:18,854] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:53:18,864] {logging_mixin.py:109} INFO - [2021-11-26 16:53:18,864] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 16:53:18,868] {logging_mixin.py:109} INFO - [2021-11-26 16:53:18,868] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 16:53:18,873] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.039 seconds
+[2021-11-26 16:54:41,489] {processor.py:163} INFO - Started process (PID=18772) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:54:41,490] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 16:54:41,490] {logging_mixin.py:109} INFO - [2021-11-26 16:54:41,490] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:54:41,509] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:54:41,518] {logging_mixin.py:109} INFO - [2021-11-26 16:54:41,518] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 16:54:41,522] {logging_mixin.py:109} INFO - [2021-11-26 16:54:41,522] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 16:54:41,527] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.038 seconds
+[2021-11-26 16:56:04,666] {processor.py:163} INFO - Started process (PID=18891) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:56:04,667] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 16:56:04,667] {logging_mixin.py:109} INFO - [2021-11-26 16:56:04,667] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:56:04,688] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:56:04,698] {logging_mixin.py:109} INFO - [2021-11-26 16:56:04,698] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 16:56:04,703] {logging_mixin.py:109} INFO - [2021-11-26 16:56:04,703] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 16:56:04,708] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.043 seconds
+[2021-11-26 16:57:26,296] {processor.py:163} INFO - Started process (PID=18992) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:57:26,296] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 16:57:26,296] {logging_mixin.py:109} INFO - [2021-11-26 16:57:26,296] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:57:26,316] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:57:26,328] {logging_mixin.py:109} INFO - [2021-11-26 16:57:26,328] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 16:57:26,332] {logging_mixin.py:109} INFO - [2021-11-26 16:57:26,332] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 16:57:26,339] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.043 seconds
+[2021-11-26 16:58:50,186] {processor.py:163} INFO - Started process (PID=19116) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:58:50,187] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-11-26 16:58:50,188] {logging_mixin.py:109} INFO - [2021-11-26 16:58:50,188] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:58:50,211] {processor.py:637} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-11-26 16:58:50,221] {logging_mixin.py:109} INFO - [2021-11-26 16:58:50,221] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-26 16:58:50,226] {logging_mixin.py:109} INFO - [2021-11-26 16:58:50,226] {dag.py:2928} INFO - Setting next_dagrun for test_utils to None
+[2021-11-26 16:58:50,231] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.045 seconds
