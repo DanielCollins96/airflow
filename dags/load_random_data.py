@@ -3,10 +3,12 @@ import datetime
 import pandas as pd
 from airflow.operators.python_operator import PythonOperator
 from airflow.providers.postgres.operators.postgres import PostgresOperator
-from airflow.operators.dummy_operator import DummyOperator
+# from airflow.operators.dummy_operator import DummyOperator
 from airflow.utils.dates import days_ago
+import random
 import os
 import psycopg2
+import csv
 
 default_args = {
     'owner': 'airflow',
@@ -23,12 +25,17 @@ ingestion_dag = DAG(
 def transform_poopoo():
     print('transform_poopoo')
     data = {}
-    time = datetime.datetime.now()
-    data['time'] = time
+    data['time'] = datetime.datetime.now()
+    data['id'] = int(random.random()*10000)
     df = pd.DataFrame([data])
-    df.to_csv(PROCESSED_DATA_PATH, index=False, mode='a')
+    print(df.shape)
+
+    if (os.path.getsize(PROCESSED_DATA_PATH) == 0):
+        df.to_csv(PROCESSED_DATA_PATH, index=False)
+    else:
+        df.to_csv(PROCESSED_DATA_PATH, mode='a', header=False, index=False)
     # df.to_csv(PROCESSED_DATA_PATH, index=False)
-    # os.makedirs(f'{os.getcwd()}/', exist_ok=True)
+
 
 def load_poopoo():
     df = pd.read_csv(PROCESSED_DATA_PATH)
@@ -38,9 +45,8 @@ def load_poopoo():
         user='postgres',
         password='postgres'
     )
-
-    df.to_sql('time_poos', con=conn, if_exists='append', index=False)
-    print('load_poopoo from bum')
+    df.to_sql('time', con=conn, if_exists='append', index=False)
+    print('loaded_poopoo from bum')
 
 task_1 = PythonOperator(
     task_id='transform_poopoo',
