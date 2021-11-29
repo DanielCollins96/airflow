@@ -768,3 +768,24 @@
 [2021-11-28 11:04:46,109] {logging_mixin.py:109} INFO - [2021-11-28 11:04:46,109] {dag.py:2396} INFO - Sync 1 DAGs
 [2021-11-28 11:04:46,113] {logging_mixin.py:109} INFO - [2021-11-28 11:04:46,113] {dag.py:2928} INFO - Setting next_dagrun for example_time_delta_sensor_async to None
 [2021-11-28 11:04:46,119] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.041 seconds
+[2021-11-28 11:14:56,611] {processor.py:163} INFO - Started process (PID=56824) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2021-11-28 11:14:56,613] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2021-11-28 11:14:56,613] {logging_mixin.py:109} INFO - [2021-11-28 11:14:56,613] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2021-11-28 11:14:56,632] {processor.py:637} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2021-11-28 11:14:56,642] {logging_mixin.py:109} INFO - [2021-11-28 11:14:56,642] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-28 11:14:56,646] {logging_mixin.py:109} INFO - [2021-11-28 11:14:56,646] {dag.py:2928} INFO - Setting next_dagrun for example_time_delta_sensor_async to None
+[2021-11-28 11:14:56,652] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.041 seconds
+[2021-11-28 11:16:15,265] {processor.py:163} INFO - Started process (PID=57001) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2021-11-28 11:16:15,267] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2021-11-28 11:16:15,267] {logging_mixin.py:109} INFO - [2021-11-28 11:16:15,267] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2021-11-28 11:16:15,287] {processor.py:637} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2021-11-28 11:16:15,297] {logging_mixin.py:109} INFO - [2021-11-28 11:16:15,297] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-28 11:16:15,301] {logging_mixin.py:109} INFO - [2021-11-28 11:16:15,301] {dag.py:2928} INFO - Setting next_dagrun for example_time_delta_sensor_async to None
+[2021-11-28 11:16:15,307] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.042 seconds
+[2021-11-28 11:17:40,698] {processor.py:163} INFO - Started process (PID=57216) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2021-11-28 11:17:40,698] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2021-11-28 11:17:40,699] {logging_mixin.py:109} INFO - [2021-11-28 11:17:40,699] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2021-11-28 11:17:40,720] {processor.py:637} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2021-11-28 11:17:40,731] {logging_mixin.py:109} INFO - [2021-11-28 11:17:40,731] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-28 11:17:40,748] {logging_mixin.py:109} INFO - [2021-11-28 11:17:40,748] {dag.py:2928} INFO - Setting next_dagrun for example_time_delta_sensor_async to None
+[2021-11-28 11:17:40,755] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.058 seconds

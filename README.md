@@ -1,0 +1,6 @@
+# Airflow
+
+## Commands
+
+- `airflow standalone`
+

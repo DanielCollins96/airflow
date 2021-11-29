@@ -669,3 +669,24 @@
 [2021-11-28 11:05:32,032] {logging_mixin.py:109} INFO - [2021-11-28 11:05:32,032] {dag.py:2396} INFO - Sync 1 DAGs
 [2021-11-28 11:05:32,037] {logging_mixin.py:109} INFO - [2021-11-28 11:05:32,037] {dag.py:2928} INFO - Setting next_dagrun for example_bash_operator to 2021-11-28T00:00:00+00:00
 [2021-11-28 11:05:32,042] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.043 seconds
+[2021-11-28 11:15:48,991] {processor.py:163} INFO - Started process (PID=56954) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-28 11:15:48,991] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-28 11:15:48,991] {logging_mixin.py:109} INFO - [2021-11-28 11:15:48,991] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-28 11:15:49,017] {processor.py:637} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-28 11:15:49,028] {logging_mixin.py:109} INFO - [2021-11-28 11:15:49,028] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-28 11:15:49,033] {logging_mixin.py:109} INFO - [2021-11-28 11:15:49,032] {dag.py:2928} INFO - Setting next_dagrun for example_bash_operator to 2021-11-28T00:00:00+00:00
+[2021-11-28 11:15:49,039] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.048 seconds
+[2021-11-28 11:17:16,246] {processor.py:163} INFO - Started process (PID=57148) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-28 11:17:16,248] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-28 11:17:16,248] {logging_mixin.py:109} INFO - [2021-11-28 11:17:16,248] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-28 11:17:16,283] {processor.py:637} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-28 11:17:16,295] {logging_mixin.py:109} INFO - [2021-11-28 11:17:16,295] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-28 11:17:16,303] {logging_mixin.py:109} INFO - [2021-11-28 11:17:16,303] {dag.py:2928} INFO - Setting next_dagrun for example_bash_operator to 2021-11-28T00:00:00+00:00
+[2021-11-28 11:17:16,358] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.112 seconds
+[2021-11-28 11:18:45,467] {processor.py:163} INFO - Started process (PID=57380) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-28 11:18:45,467] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-28 11:18:45,468] {logging_mixin.py:109} INFO - [2021-11-28 11:18:45,468] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-28 11:18:45,490] {processor.py:637} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-28 11:18:45,501] {logging_mixin.py:109} INFO - [2021-11-28 11:18:45,501] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-28 11:18:45,506] {logging_mixin.py:109} INFO - [2021-11-28 11:18:45,506] {dag.py:2928} INFO - Setting next_dagrun for example_bash_operator to 2021-11-28T00:00:00+00:00
+[2021-11-28 11:18:45,514] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.047 seconds

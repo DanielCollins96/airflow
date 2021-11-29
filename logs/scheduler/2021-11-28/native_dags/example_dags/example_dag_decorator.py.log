@@ -723,3 +723,24 @@
 [2021-11-28 11:05:16,939] {logging_mixin.py:109} INFO - [2021-11-28 11:05:16,939] {dag.py:2396} INFO - Sync 1 DAGs
 [2021-11-28 11:05:16,943] {logging_mixin.py:109} INFO - [2021-11-28 11:05:16,943] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
 [2021-11-28 11:05:16,948] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.348 seconds
+[2021-11-28 11:15:30,069] {processor.py:163} INFO - Started process (PID=56912) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-28 11:15:30,069] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-28 11:15:30,069] {logging_mixin.py:109} INFO - [2021-11-28 11:15:30,069] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-28 11:15:30,104] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-28 11:15:30,413] {logging_mixin.py:109} INFO - [2021-11-28 11:15:30,413] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-28 11:15:30,418] {logging_mixin.py:109} INFO - [2021-11-28 11:15:30,418] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-28 11:15:30,425] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.356 seconds
+[2021-11-28 11:17:00,747] {processor.py:163} INFO - Started process (PID=57073) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-28 11:17:00,748] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-28 11:17:00,748] {logging_mixin.py:109} INFO - [2021-11-28 11:17:00,748] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-28 11:17:00,780] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-28 11:17:01,075] {logging_mixin.py:109} INFO - [2021-11-28 11:17:01,075] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-28 11:17:01,079] {logging_mixin.py:109} INFO - [2021-11-28 11:17:01,079] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-28 11:17:01,087] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.340 seconds
+[2021-11-28 11:18:29,812] {processor.py:163} INFO - Started process (PID=57332) to work on /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-28 11:18:29,813] {processor.py:625} INFO - Processing file /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-28 11:18:29,813] {logging_mixin.py:109} INFO - [2021-11-28 11:18:29,813] {dagbag.py:500} INFO - Filling up the DagBag from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-28 11:18:29,846] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-28 11:18:30,099] {logging_mixin.py:109} INFO - [2021-11-28 11:18:30,099] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-28 11:18:30,104] {logging_mixin.py:109} INFO - [2021-11-28 11:18:30,103] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-28 11:18:30,117] {processor.py:171} INFO - Processing /Users/danielcollins/opt/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.305 seconds
