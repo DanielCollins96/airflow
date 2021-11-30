@@ -4,6 +4,7 @@ import pandas as pd
 from airflow.operators.python_operator import PythonOperator
 from airflow.providers.postgres.operators.postgres import PostgresOperator
 # from airflow.operators.dummy_operator import DummyOperator
+from sqlalchemy import create_engine
 from airflow.utils.dates import days_ago
 import random
 import os
@@ -45,7 +46,9 @@ def load_poopoo():
         user='postgres',
         password='postgres'
     )
-    df.to_sql('time', con=conn, if_exists='append', index=False)
+    engine = create_engine('postgresql://postgres:postgres@localhost:5432/hockey')
+
+    df.to_sql('time_airflow', engine, if_exists='append', index=False)
     print('loaded_poopoo from bum')
 
 task_1 = PythonOperator(
@@ -60,4 +63,20 @@ task_2 = PythonOperator(
     dag=ingestion_dag,
 )
 
+task_3 = PostgresOperator(
+    task_id='load_poopoo_to_postgres',
+    postgres_conn_id="postgres_hockey",    
+    sql='SELECT * FROM time_airflow',
+    dag=ingestion_dag,
+)
+
+task_4 = PostgresOperator(
+    task_id='load_poopoo_to_postgres_2',
+    postgres_conn_id="postgres_hockey",
+    sql='SELECT * FROM time_airflow WHERE id > %(num)s',
+    parameters={"num": 4000},
+    dag=ingestion_dag,
+)
+
 task_1 >> task_2
+task_3 >> task_4
