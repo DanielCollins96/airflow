@@ -1,2 +1,5 @@
 **.log
 **.ipynb
+**.csv
+airflow-webserver.pid
+airflow.db
