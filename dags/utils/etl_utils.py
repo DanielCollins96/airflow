@@ -2,11 +2,15 @@ import os
 import datetime
 import pandas as pd
 import random
+import requests
+import psycopg2
+from airflow.providers.postgres.hooks.postgres import PostgresHook
 from sqlalchemy import create_engine
 
 ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
 
 PROCESSED_DATA_PATH = '/Users/danielcollins/airflow/processed_data.csv'
+NHL_API_PATH = 'https://statsapi.web.nhl.com/api/v1/'
 
 def transform_poopoo(**kwargs):
     print('transform_poopoo')
@@ -41,5 +45,57 @@ def load_poopoo(**kwargs):
         print(e)
     print('loaded_poopoo from bum')
 
-def get_team_stats(**kwargs):
+
+
+
+def get_team_info(**kwargs):
+    '''
+    This function will get information about each NHL team. It will then insert that to a team table.
+    '''
     print('fetching team stats')
+    r = requests.get(NHL_API_PATH + 'teams')
+    res = r.json()
+    team_data = res['teams']
+    df = pd.json_normalize(team_data, sep='_')
+    engine = create_engine('postgresql://postgres:postgres@localhost:5432/hockey')
+    df.to_sql(kwargs['table_name'], engine, if_exists='replace', index=False)
+    # return df
+
+def query_and_push(**kwargs):
+    '''
+    Takes
+    '''
+    sql = kwargs['sql']
+    pg_hook = PostgresHook(postgres_conn_id='postgres_hockey')
+    records = pg_hook.get_records(sql=sql)
+    print(sql)
+    record_list = [element for tupl in records for element in tupl]
+    kwargs['ti'].xcom_push('ids', record_list)
+    print(record_list)
+    # return record_list
+    
+def get_teams_player_info(**kwargs):
+    print('fetching team info')
+    glory = kwargs['ti'].xcom_pull(task_ids='hook_check_ids', key='ids')
+    print(dir(kwargs['ti']))
+    try:
+        print(glory)
+        print(f'glory: {glory.shape}')
+    except Exception as e:
+        print(e)
+
+def query_hockey_db(query: str):
+    '''
+    psycopg2 connection and query execution. Repalced by query_and_push.
+    '''
+    try:
+        conn = psycopg2.connect(host="localhost", database="hockey", user="airflow_user", password="airflow_pass")
+        cur = conn.cursor()
+        cur.execute(query)
+        rows = cur.fetchall()
+        conn.close()
+    
+    except Exception as e:
+        print(e)
+        return 'Error querying database'
+    return rows
