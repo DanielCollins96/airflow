@@ -70,14 +70,15 @@ def query_and_push(**kwargs):
     records = pg_hook.get_records(sql=sql)
     print(sql)
     record_list = [element for tupl in records for element in tupl]
-    kwargs['ti'].xcom_push('ids', record_list)
+    kwargs['ti'].xcom_push('ids', 'record_list')
+    
     print(record_list)
     # return record_list
     
-def get_teams_player_info(**kwargs):
+def get_teams_player_info(ti):
     print('fetching team info')
-    glory = kwargs['ti'].xcom_pull(task_ids='hook_check_ids', key='ids')
-    print(dir(kwargs['ti']))
+    glory = ti.xcom_pull(key='ids', task_ids='hook_check_ids')
+    print(dir(ti))
     try:
         print(glory)
         print(f'glory: {glory.shape}')
